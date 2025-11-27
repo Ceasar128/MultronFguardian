@@ -1,15 +1,15 @@
 # Multron File Guardian
 
 ![License: AAL](https://img.shields.io/badge/License-AAL-black.svg)
-![Release Date](https://img.shields.io/badge/Release%20Date-2025--11--21-seagreen)
+![Release Date](https://img.shields.io/badge/Release%20Date-2025--11--27-seagreen)
 
 ---
 
 **Multron File Guardian** is an advanced file encryption software that supports many algorithms.
 > 📅 First release date: **September 24, 2024**   
 > 📦 Initial release: **multronfguardian 1.0 beta**   
-> 📦 Current version: **Multron File Guardian 1.5.7 Release**  
-> 📦 Current Multron NoteGuard version: **1.3.4 Beta**   
+> 📦 Current version: **Multron File Guardian 1.5.8 Release**  
+> 📦 Current Multron NoteGuard version: **1.3.4 Beta 2**   
 
 ---
 
@@ -37,7 +37,8 @@
 * You can set RSA Key Length (from 2048 to 16384) (Default is 3072)
 * You can set Password-Iteration Rate. (Default is 4 Iteration)
 * You can set Argon2id Memory Rate. (Default is 256) {256, 512, 1024} | MB
-* You can also set Symmetric Algorithm Key Size
+* You can set shredder iteration rate (1-99) (Default is 3)
+* You can also set Symmetric Algorithm Key Size  
 * If you're about to share a file securely, then you may want to use one of Hybrid algorithms.
 * You can compress your files before encryption.
 - 🔐 Encrypted File Extension = .mfg

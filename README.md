@@ -1,15 +1,15 @@
 # Multron File Guardian
 
 ![License: AAL](https://img.shields.io/badge/License-AAL-black.svg)
-![Release Date](https://img.shields.io/badge/Release%20Date-2025--11--27-seagreen)
+![Release Date](https://img.shields.io/badge/Release%20Date-2025--11--30-seagreen)
 
 ---
 
 **Multron File Guardian** is an advanced file encryption software that supports many algorithms.
 > 📅 First release date: **September 24, 2024**   
 > 📦 Initial release: **multronfguardian 1.0 beta**   
-> 📦 Current version: **Multron File Guardian 1.5.8 Release**  
-> 📦 Current Multron NoteGuard version: **1.3.4 Beta 2**   
+> 📦 Current version: **Multron File Guardian 1.5.8.2 Release**  
+> 📦 Current Multron NoteGuard version: **1.3.4 Release**   
 
 ---
 

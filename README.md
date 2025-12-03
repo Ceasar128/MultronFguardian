@@ -18,7 +18,7 @@
 - 🔐 Multron File Guardian provides you a strong file encryption.
 - ✅ You can encrypt your files with one click.
 - ✅ You can also protect your notes with Multron NoteGuard.
-  
+- ✅ Folder Selection (Hold CTRL Key while clicking Browse button, Hold CTRL+Shift to include subfolders)
 - ✅ Thanks to LinuxUsersLinuxMint for writing this readme file.
 
 ---

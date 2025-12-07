@@ -9,7 +9,7 @@ Main purpose of it is provide flexible encryption securely
 First release date is September 24, 2024.
 
 ---
-``\\ Default settings are made by this way below, so it's true`` 
+``\\ Default settings are made by this way below, so it's true``  
 Default Settings
 AES-256 CBC (Encrypt-then-MAC)
 

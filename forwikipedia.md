@@ -1,4 +1,4 @@
-## This file is created by Ceasar128 Author of Multron File Guardian software to verify wikipedia page requeest of Cryptexpertsar wikipedia user.
+## This file is created by Ceasar128 Author of Multron File Guardian software to verify wikipedia page request of Cryptexpertsar wikipedia user.
 ``\\ Yes these are true. programm codebase is under c# .net framework 4.7.2``  
 Multron File Guardian is an open source file encryption software for Windows. It supports many configurations. Programmed in C#, .NET Framework 4.7.2 by Ceasar128.
 

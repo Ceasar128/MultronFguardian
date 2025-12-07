@@ -33,7 +33,7 @@
 - 🔐 ChaCha20
 - 🔐 SM4
 - 🔐 HC
-- 🔐 RSA Hybrided With Symmetric Algorithms (Key Encapsulation Method)
+- 🔐 RSA Hybrided With Symmetric Algorithms (Key Encapsulation Mechanism)
 
 * You can set RSA Key Length (from 2048 to 16384) (Default is 3072)
 * You can set Password-Iteration Rate. (Default is 4 Iteration)

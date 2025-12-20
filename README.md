@@ -1,15 +1,15 @@
 # Multron File Guardian
 
 ![License: AAL](https://img.shields.io/badge/License-AAL-black.svg)
-![Release Date](https://img.shields.io/badge/Release%20Date-2025--12--05-seagreen)
+![Release Date](https://img.shields.io/badge/Release%20Date-2025--12--20-seagreen)
 
 ---
 
 **Multron File Guardian** is an advanced file encryption software that supports many algorithms.
 > 📅 First release date: **September 24, 2024**   
 > 📦 Initial release: **multronfguardian 1.0 beta**   
-> 📦 Current version: **Multron File Guardian 1.5.9.5 Release**  
-> 📦 Current Multron NoteGuard version: **1.3.5.5 Release**   
+> 📦 Current version: **Multron File Guardian 2.0 Alpha**  
+> 📦 Current Multron NoteGuard version: **1.3.5.5**   
 
 ---
 
@@ -61,11 +61,11 @@
 ## You may want support us: https://buymeacoffee.com/multron
 
 # 🛠️ Requirements
-- .NET Framework 4.7.2 or Above
+- .NET Core 8
 - 64 Bit CPU/OS (X64)
 - 2 Core 2 Thread CPU.
 - Windows 11 Fully supported
-- Windows 10, Windows 8/8.1, Windows 7 Partially supported (You may encounter interface problems or bugs, in-case you came to me for fix, I cant help you if you dont use Windows 10)
+- Windows 10 Partially supported
 
 
 ## Downloads

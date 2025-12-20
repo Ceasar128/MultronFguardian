@@ -3,6 +3,10 @@
 ![License: AAL](https://img.shields.io/badge/License-AAL-black.svg)
 ![Release Date](https://img.shields.io/badge/Release%20Date-2025--12--20-seagreen)
 
+## Contributors
+
+- [@winball501](https://github.com/winball501)
+
 ---
 
 **Multron File Guardian** is an advanced file encryption software that supports many algorithms.

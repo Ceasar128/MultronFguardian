@@ -1,0 +1,445 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\frknk\\OneDrive\\Masa\u00FCst\u00FC\\mfg\\Multron File Guardian\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7EEFB2BE-4BB5-4A2D-AABD-6267FD58565E}|Multron File Guardian\\Multron File Guardian.csproj|c:\\users\\frknk\\onedrive\\masa\u00FCst\u00FC\\mfg\\multron file guardian\\multron file guardian\\processes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EEFB2BE-4BB5-4A2D-AABD-6267FD58565E}|Multron File Guardian\\Multron File Guardian.csproj|solutionrelative:multron file guardian\\processes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EEFB2BE-4BB5-4A2D-AABD-6267FD58565E}|Multron File Guardian\\Multron File Guardian.csproj|c:\\users\\frknk\\onedrive\\masa\u00FCst\u00FC\\mfg\\multron file guardian\\multron file guardian\\window1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EEFB2BE-4BB5-4A2D-AABD-6267FD58565E}|Multron File Guardian\\Multron File Guardian.csproj|solutionrelative:multron file guardian\\window1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EEFB2BE-4BB5-4A2D-AABD-6267FD58565E}|Multron File Guardian\\Multron File Guardian.csproj|c:\\users\\frknk\\onedrive\\masa\u00FCst\u00FC\\mfg\\multron file guardian\\multron file guardian\\window1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7EEFB2BE-4BB5-4A2D-AABD-6267FD58565E}|Multron File Guardian\\Multron File Guardian.csproj|solutionrelative:multron file guardian\\window1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EEFB2BE-4BB5-4A2D-AABD-6267FD58565E}|Multron File Guardian\\Multron File Guardian.csproj|c:\\users\\frknk\\onedrive\\masa\u00FCst\u00FC\\mfg\\multron file guardian\\multron file guardian\\window3.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EEFB2BE-4BB5-4A2D-AABD-6267FD58565E}|Multron File Guardian\\Multron File Guardian.csproj|solutionrelative:multron file guardian\\window3.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EEFB2BE-4BB5-4A2D-AABD-6267FD58565E}|Multron File Guardian\\Multron File Guardian.csproj|c:\\users\\frknk\\onedrive\\masa\u00FCst\u00FC\\mfg\\multron file guardian\\multron file guardian\\window3.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7EEFB2BE-4BB5-4A2D-AABD-6267FD58565E}|Multron File Guardian\\Multron File Guardian.csproj|solutionrelative:multron file guardian\\window3.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EEFB2BE-4BB5-4A2D-AABD-6267FD58565E}|Multron File Guardian\\Multron File Guardian.csproj|c:\\users\\frknk\\onedrive\\masa\u00FCst\u00FC\\mfg\\multron file guardian\\multron file guardian\\multron file guardian.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{7EEFB2BE-4BB5-4A2D-AABD-6267FD58565E}|Multron File Guardian\\Multron File Guardian.csproj|solutionrelative:multron file guardian\\multron file guardian.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EEFB2BE-4BB5-4A2D-AABD-6267FD58565E}|Multron File Guardian\\Multron File Guardian.csproj|c:\\users\\frknk\\onedrive\\masa\u00FCst\u00FC\\mfg\\multron file guardian\\multron file guardian\\window2.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EEFB2BE-4BB5-4A2D-AABD-6267FD58565E}|Multron File Guardian\\Multron File Guardian.csproj|solutionrelative:multron file guardian\\window2.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EEFB2BE-4BB5-4A2D-AABD-6267FD58565E}|Multron File Guardian\\Multron File Guardian.csproj|c:\\users\\frknk\\onedrive\\masa\u00FCst\u00FC\\mfg\\multron file guardian\\multron file guardian\\window2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7EEFB2BE-4BB5-4A2D-AABD-6267FD58565E}|Multron File Guardian\\Multron File Guardian.csproj|solutionrelative:multron file guardian\\window2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EEFB2BE-4BB5-4A2D-AABD-6267FD58565E}|Multron File Guardian\\Multron File Guardian.csproj|c:\\users\\frknk\\onedrive\\masa\u00FCst\u00FC\\mfg\\multron file guardian\\multron file guardian\\window6.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7EEFB2BE-4BB5-4A2D-AABD-6267FD58565E}|Multron File Guardian\\Multron File Guardian.csproj|solutionrelative:multron file guardian\\window6.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EEFB2BE-4BB5-4A2D-AABD-6267FD58565E}|Multron File Guardian\\Multron File Guardian.csproj|c:\\users\\frknk\\onedrive\\masa\u00FCst\u00FC\\mfg\\multron file guardian\\multron file guardian\\themes\\dark.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7EEFB2BE-4BB5-4A2D-AABD-6267FD58565E}|Multron File Guardian\\Multron File Guardian.csproj|solutionrelative:multron file guardian\\themes\\dark.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EEFB2BE-4BB5-4A2D-AABD-6267FD58565E}|Multron File Guardian\\Multron File Guardian.csproj|c:\\users\\frknk\\onedrive\\masa\u00FCst\u00FC\\mfg\\multron file guardian\\multron file guardian\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7EEFB2BE-4BB5-4A2D-AABD-6267FD58565E}|Multron File Guardian\\Multron File Guardian.csproj|solutionrelative:multron file guardian\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EEFB2BE-4BB5-4A2D-AABD-6267FD58565E}|Multron File Guardian\\Multron File Guardian.csproj|c:\\users\\frknk\\onedrive\\masa\u00FCst\u00FC\\mfg\\multron file guardian\\multron file guardian\\window6.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EEFB2BE-4BB5-4A2D-AABD-6267FD58565E}|Multron File Guardian\\Multron File Guardian.csproj|solutionrelative:multron file guardian\\window6.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EEFB2BE-4BB5-4A2D-AABD-6267FD58565E}|Multron File Guardian\\Multron File Guardian.csproj|c:\\users\\frknk\\onedrive\\masa\u00FCst\u00FC\\mfg\\multron file guardian\\multron file guardian\\themes\\light.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7EEFB2BE-4BB5-4A2D-AABD-6267FD58565E}|Multron File Guardian\\Multron File Guardian.csproj|solutionrelative:multron file guardian\\themes\\light.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EEFB2BE-4BB5-4A2D-AABD-6267FD58565E}|Multron File Guardian\\Multron File Guardian.csproj|c:\\users\\frknk\\onedrive\\masa\u00FCst\u00FC\\mfg\\multron file guardian\\multron file guardian\\window5.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EEFB2BE-4BB5-4A2D-AABD-6267FD58565E}|Multron File Guardian\\Multron File Guardian.csproj|solutionrelative:multron file guardian\\window5.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EEFB2BE-4BB5-4A2D-AABD-6267FD58565E}|Multron File Guardian\\Multron File Guardian.csproj|c:\\users\\frknk\\onedrive\\masa\u00FCst\u00FC\\mfg\\multron file guardian\\multron file guardian\\mngprocesses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EEFB2BE-4BB5-4A2D-AABD-6267FD58565E}|Multron File Guardian\\Multron File Guardian.csproj|solutionrelative:multron file guardian\\mngprocesses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EEFB2BE-4BB5-4A2D-AABD-6267FD58565E}|Multron File Guardian\\Multron File Guardian.csproj|c:\\users\\frknk\\onedrive\\masa\u00FCst\u00FC\\mfg\\multron file guardian\\multron file guardian\\window5.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7EEFB2BE-4BB5-4A2D-AABD-6267FD58565E}|Multron File Guardian\\Multron File Guardian.csproj|solutionrelative:multron file guardian\\window5.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EEFB2BE-4BB5-4A2D-AABD-6267FD58565E}|Multron File Guardian\\Multron File Guardian.csproj|c:\\users\\frknk\\onedrive\\masa\u00FCst\u00FC\\mfg\\multron file guardian\\multron file guardian\\window4.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7EEFB2BE-4BB5-4A2D-AABD-6267FD58565E}|Multron File Guardian\\Multron File Guardian.csproj|solutionrelative:multron file guardian\\window4.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EEFB2BE-4BB5-4A2D-AABD-6267FD58565E}|Multron File Guardian\\Multron File Guardian.csproj|c:\\users\\frknk\\onedrive\\masa\u00FCst\u00FC\\mfg\\multron file guardian\\multron file guardian\\window4.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EEFB2BE-4BB5-4A2D-AABD-6267FD58565E}|Multron File Guardian\\Multron File Guardian.csproj|solutionrelative:multron file guardian\\window4.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EEFB2BE-4BB5-4A2D-AABD-6267FD58565E}|Multron File Guardian\\Multron File Guardian.csproj|c:\\users\\frknk\\onedrive\\masa\u00FCst\u00FC\\mfg\\multron file guardian\\multron file guardian\\raes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EEFB2BE-4BB5-4A2D-AABD-6267FD58565E}|Multron File Guardian\\Multron File Guardian.csproj|solutionrelative:multron file guardian\\raes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\winba\\AppData\\Local\\Temp\\.vsdbgsrc\\29c56254d0a16d6971cae40a34683614443c41b860e0a5d8e1f7f790cc9189d1\\DependencyObject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EEFB2BE-4BB5-4A2D-AABD-6267FD58565E}|Multron File Guardian\\Multron File Guardian.csproj|c:\\users\\frknk\\onedrive\\masa\u00FCst\u00FC\\mfg\\multron file guardian\\multron file guardian\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EEFB2BE-4BB5-4A2D-AABD-6267FD58565E}|Multron File Guardian\\Multron File Guardian.csproj|solutionrelative:multron file guardian\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EEFB2BE-4BB5-4A2D-AABD-6267FD58565E}|Multron File Guardian\\Multron File Guardian.csproj|c:\\users\\frknk\\onedrive\\masa\u00FCst\u00FC\\mfg\\multron file guardian\\multron file guardian\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EEFB2BE-4BB5-4A2D-AABD-6267FD58565E}|Multron File Guardian\\Multron File Guardian.csproj|solutionrelative:multron file guardian\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EEFB2BE-4BB5-4A2D-AABD-6267FD58565E}|Multron File Guardian\\Multron File Guardian.csproj|c:\\users\\frknk\\onedrive\\masa\u00FCst\u00FC\\mfg\\multron file guardian\\multron file guardian\\app.manifest||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{7EEFB2BE-4BB5-4A2D-AABD-6267FD58565E}|Multron File Guardian\\Multron File Guardian.csproj|solutionrelative:multron file guardian\\app.manifest||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\9.0.301\\Sdks\\NuGet.Build.Tasks.Pack\\build\\NuGet.Build.Tasks.Pack.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\winba\\AppData\\Local\\Temp\\.vsdbgsrc\\aad6be2495d0a786b94b3514a5b6903407fe2d6a75ad7e505df6a9d895927867\\XamlReader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\winba\\AppData\\Local\\Temp\\.vsdbgsrc\\b49ace08f4cd26a4f275d628999a0f91ccb8a1892704530d9e6f5bd1284082f1\\ResourcePart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EEFB2BE-4BB5-4A2D-AABD-6267FD58565E}|Multron File Guardian\\Multron File Guardian.csproj|c:\\users\\frknk\\onedrive\\masa\u00FCst\u00FC\\mfg\\multron file guardian\\multron file guardian\\multron file guardian.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7EEFB2BE-4BB5-4A2D-AABD-6267FD58565E}|Multron File Guardian\\Multron File Guardian.csproj|solutionrelative:multron file guardian\\multron file guardian.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Processes.cs",
+              "DocumentMoniker": "C:\\Users\\frknk\\OneDrive\\Masa\u00FCst\u00FC\\mfg\\Multron File Guardian\\Multron File Guardian\\Processes.cs",
+              "RelativeDocumentMoniker": "Multron File Guardian\\Processes.cs",
+              "ToolTip": "C:\\Users\\frknk\\OneDrive\\Masa\u00FCst\u00FC\\mfg\\Multron File Guardian\\Multron File Guardian\\Processes.cs",
+              "RelativeToolTip": "Multron File Guardian\\Processes.cs",
+              "ViewState": "AgIAAJcDAAAAAAAAAAAgwLwHAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T20:03:10.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Window2.xaml",
+              "DocumentMoniker": "C:\\Users\\frknk\\OneDrive\\Masa\u00FCst\u00FC\\mfg\\Multron File Guardian\\Multron File Guardian\\Window2.xaml",
+              "RelativeDocumentMoniker": "Multron File Guardian\\Window2.xaml",
+              "ToolTip": "C:\\Users\\frknk\\OneDrive\\Masa\u00FCst\u00FC\\mfg\\Multron File Guardian\\Multron File Guardian\\Window2.xaml",
+              "RelativeToolTip": "Multron File Guardian\\Window2.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-07T20:03:10.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Window3.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\frknk\\OneDrive\\Masa\u00FCst\u00FC\\mfg\\Multron File Guardian\\Multron File Guardian\\Window3.xaml.cs",
+              "RelativeDocumentMoniker": "Multron File Guardian\\Window3.xaml.cs",
+              "ToolTip": "C:\\Users\\frknk\\OneDrive\\Masa\u00FCst\u00FC\\mfg\\Multron File Guardian\\Multron File Guardian\\Window3.xaml.cs",
+              "RelativeToolTip": "Multron File Guardian\\Window3.xaml.cs",
+              "ViewState": "AgIAAHwAAAAAAAAAAADwv4gAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T20:03:10.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Multron File Guardian",
+              "DocumentMoniker": "C:\\Users\\frknk\\OneDrive\\Masa\u00FCst\u00FC\\mfg\\Multron File Guardian\\Multron File Guardian\\Multron File Guardian.csproj",
+              "RelativeDocumentMoniker": "Multron File Guardian\\Multron File Guardian.csproj",
+              "ToolTip": "C:\\Users\\frknk\\OneDrive\\Masa\u00FCst\u00FC\\mfg\\Multron File Guardian\\Multron File Guardian\\Multron File Guardian.csproj",
+              "RelativeToolTip": "Multron File Guardian\\Multron File Guardian.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-18T20:38:53.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Window2.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\frknk\\OneDrive\\Masa\u00FCst\u00FC\\mfg\\Multron File Guardian\\Multron File Guardian\\Window2.xaml.cs",
+              "RelativeDocumentMoniker": "Multron File Guardian\\Window2.xaml.cs",
+              "ToolTip": "C:\\Users\\frknk\\OneDrive\\Masa\u00FCst\u00FC\\mfg\\Multron File Guardian\\Multron File Guardian\\Window2.xaml.cs",
+              "RelativeToolTip": "Multron File Guardian\\Window2.xaml.cs",
+              "ViewState": "AgIAAAwCAAAAAAAAAAAAwBwCAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T20:03:10.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Window3.xaml",
+              "DocumentMoniker": "C:\\Users\\frknk\\OneDrive\\Masa\u00FCst\u00FC\\mfg\\Multron File Guardian\\Multron File Guardian\\Window3.xaml",
+              "RelativeDocumentMoniker": "Multron File Guardian\\Window3.xaml",
+              "ToolTip": "C:\\Users\\frknk\\OneDrive\\Masa\u00FCst\u00FC\\mfg\\Multron File Guardian\\Multron File Guardian\\Window3.xaml",
+              "RelativeToolTip": "Multron File Guardian\\Window3.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-07T20:03:10.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Window1.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\frknk\\OneDrive\\Masa\u00FCst\u00FC\\mfg\\Multron File Guardian\\Multron File Guardian\\Window1.xaml.cs",
+              "RelativeDocumentMoniker": "Multron File Guardian\\Window1.xaml.cs",
+              "ToolTip": "C:\\Users\\frknk\\OneDrive\\Masa\u00FCst\u00FC\\mfg\\Multron File Guardian\\Multron File Guardian\\Window1.xaml.cs",
+              "RelativeToolTip": "Multron File Guardian\\Window1.xaml.cs",
+              "ViewState": "AgIAAGoCAAAAAAAAAAAcwHgCAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T20:03:10.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Window1.xaml",
+              "DocumentMoniker": "C:\\Users\\frknk\\OneDrive\\Masa\u00FCst\u00FC\\mfg\\Multron File Guardian\\Multron File Guardian\\Window1.xaml",
+              "RelativeDocumentMoniker": "Multron File Guardian\\Window1.xaml",
+              "ToolTip": "C:\\Users\\frknk\\OneDrive\\Masa\u00FCst\u00FC\\mfg\\Multron File Guardian\\Multron File Guardian\\Window1.xaml",
+              "RelativeToolTip": "Multron File Guardian\\Window1.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-07T20:03:10.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Light.xaml",
+              "DocumentMoniker": "C:\\Users\\frknk\\OneDrive\\Masa\u00FCst\u00FC\\mfg\\Multron File Guardian\\Multron File Guardian\\Themes\\Light.xaml",
+              "RelativeDocumentMoniker": "Multron File Guardian\\Themes\\Light.xaml",
+              "ToolTip": "C:\\Users\\frknk\\OneDrive\\Masa\u00FCst\u00FC\\mfg\\Multron File Guardian\\Multron File Guardian\\Themes\\Light.xaml",
+              "RelativeToolTip": "Multron File Guardian\\Themes\\Light.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-13T18:05:29.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Window6.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\frknk\\OneDrive\\Masa\u00FCst\u00FC\\mfg\\Multron File Guardian\\Multron File Guardian\\Window6.xaml.cs",
+              "RelativeDocumentMoniker": "Multron File Guardian\\Window6.xaml.cs",
+              "ToolTip": "C:\\Users\\frknk\\OneDrive\\Masa\u00FCst\u00FC\\mfg\\Multron File Guardian\\Multron File Guardian\\Window6.xaml.cs",
+              "RelativeToolTip": "Multron File Guardian\\Window6.xaml.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAArwCIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T19:03:26.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Window5.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\frknk\\OneDrive\\Masa\u00FCst\u00FC\\mfg\\Multron File Guardian\\Multron File Guardian\\Window5.xaml.cs",
+              "RelativeDocumentMoniker": "Multron File Guardian\\Window5.xaml.cs",
+              "ToolTip": "C:\\Users\\frknk\\OneDrive\\Masa\u00FCst\u00FC\\mfg\\Multron File Guardian\\Multron File Guardian\\Window5.xaml.cs",
+              "RelativeToolTip": "Multron File Guardian\\Window5.xaml.cs",
+              "ViewState": "AgIAAI8AAAAAAAAAAAAlwJsAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T20:03:10.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Dark.xaml",
+              "DocumentMoniker": "C:\\Users\\frknk\\OneDrive\\Masa\u00FCst\u00FC\\mfg\\Multron File Guardian\\Multron File Guardian\\Themes\\Dark.xaml",
+              "RelativeDocumentMoniker": "Multron File Guardian\\Themes\\Dark.xaml",
+              "ToolTip": "C:\\Users\\frknk\\OneDrive\\Masa\u00FCst\u00FC\\mfg\\Multron File Guardian\\Multron File Guardian\\Themes\\Dark.xaml",
+              "RelativeToolTip": "Multron File Guardian\\Themes\\Dark.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-14T16:45:25.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Window6.xaml",
+              "DocumentMoniker": "C:\\Users\\frknk\\OneDrive\\Masa\u00FCst\u00FC\\mfg\\Multron File Guardian\\Multron File Guardian\\Window6.xaml",
+              "RelativeDocumentMoniker": "Multron File Guardian\\Window6.xaml",
+              "ToolTip": "C:\\Users\\frknk\\OneDrive\\Masa\u00FCst\u00FC\\mfg\\Multron File Guardian\\Multron File Guardian\\Window6.xaml",
+              "RelativeToolTip": "Multron File Guardian\\Window6.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-14T17:22:03.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "mngProcesses.cs",
+              "DocumentMoniker": "C:\\Users\\frknk\\OneDrive\\Masa\u00FCst\u00FC\\mfg\\Multron File Guardian\\Multron File Guardian\\mngProcesses.cs",
+              "RelativeDocumentMoniker": "Multron File Guardian\\mngProcesses.cs",
+              "ToolTip": "C:\\Users\\frknk\\OneDrive\\Masa\u00FCst\u00FC\\mfg\\Multron File Guardian\\Multron File Guardian\\mngProcesses.cs",
+              "RelativeToolTip": "Multron File Guardian\\mngProcesses.cs",
+              "ViewState": "AgIAAGIFAAAAAAAAAAAUwGoFAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T19:23:16.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\frknk\\OneDrive\\Masa\u00FCst\u00FC\\mfg\\Multron File Guardian\\Multron File Guardian\\App.xaml",
+              "RelativeDocumentMoniker": "Multron File Guardian\\App.xaml",
+              "ToolTip": "C:\\Users\\frknk\\OneDrive\\Masa\u00FCst\u00FC\\mfg\\Multron File Guardian\\Multron File Guardian\\App.xaml",
+              "RelativeToolTip": "Multron File Guardian\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-07T20:03:10.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Window5.xaml",
+              "DocumentMoniker": "C:\\Users\\frknk\\OneDrive\\Masa\u00FCst\u00FC\\mfg\\Multron File Guardian\\Multron File Guardian\\Window5.xaml",
+              "RelativeDocumentMoniker": "Multron File Guardian\\Window5.xaml",
+              "ToolTip": "C:\\Users\\frknk\\OneDrive\\Masa\u00FCst\u00FC\\mfg\\Multron File Guardian\\Multron File Guardian\\Window5.xaml",
+              "RelativeToolTip": "Multron File Guardian\\Window5.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-07T20:03:10.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Window4.xaml",
+              "DocumentMoniker": "C:\\Users\\frknk\\OneDrive\\Masa\u00FCst\u00FC\\mfg\\Multron File Guardian\\Multron File Guardian\\Window4.xaml",
+              "RelativeDocumentMoniker": "Multron File Guardian\\Window4.xaml",
+              "ToolTip": "C:\\Users\\frknk\\OneDrive\\Masa\u00FCst\u00FC\\mfg\\Multron File Guardian\\Multron File Guardian\\Window4.xaml",
+              "RelativeToolTip": "Multron File Guardian\\Window4.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-07T20:03:10.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Window4.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\frknk\\OneDrive\\Masa\u00FCst\u00FC\\mfg\\Multron File Guardian\\Multron File Guardian\\Window4.xaml.cs",
+              "RelativeDocumentMoniker": "Multron File Guardian\\Window4.xaml.cs",
+              "ToolTip": "C:\\Users\\frknk\\OneDrive\\Masa\u00FCst\u00FC\\mfg\\Multron File Guardian\\Multron File Guardian\\Window4.xaml.cs",
+              "RelativeToolTip": "Multron File Guardian\\Window4.xaml.cs",
+              "ViewState": "AgIAAHkAAAAAAAAAAAAiwIQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T20:03:10.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "raes.cs",
+              "DocumentMoniker": "C:\\Users\\frknk\\OneDrive\\Masa\u00FCst\u00FC\\mfg\\Multron File Guardian\\Multron File Guardian\\raes.cs",
+              "RelativeDocumentMoniker": "Multron File Guardian\\raes.cs",
+              "ToolTip": "C:\\Users\\frknk\\OneDrive\\Masa\u00FCst\u00FC\\mfg\\Multron File Guardian\\Multron File Guardian\\raes.cs",
+              "RelativeToolTip": "Multron File Guardian\\raes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T20:03:10.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DependencyObject.cs",
+              "DocumentMoniker": "C:\\Users\\winba\\AppData\\Local\\Temp\\.vsdbgsrc\\29c56254d0a16d6971cae40a34683614443c41b860e0a5d8e1f7f790cc9189d1\\DependencyObject.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\winba\\AppData\\Local\\Temp\\.vsdbgsrc\\29c56254d0a16d6971cae40a34683614443c41b860e0a5d8e1f7f790cc9189d1\\DependencyObject.cs",
+              "ToolTip": "C:\\Users\\winba\\AppData\\Local\\Temp\\.vsdbgsrc\\29c56254d0a16d6971cae40a34683614443c41b860e0a5d8e1f7f790cc9189d1\\DependencyObject.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\winba\\AppData\\Local\\Temp\\.vsdbgsrc\\29c56254d0a16d6971cae40a34683614443c41b860e0a5d8e1f7f790cc9189d1\\DependencyObject.cs [Read Only]",
+              "ViewState": "AgIAAAMCAAAAAAAAAIAwwCMCAAAFAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T02:26:44.418Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\frknk\\OneDrive\\Masa\u00FCst\u00FC\\mfg\\Multron File Guardian\\Multron File Guardian\\App.xaml.cs",
+              "RelativeDocumentMoniker": "Multron File Guardian\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\frknk\\OneDrive\\Masa\u00FCst\u00FC\\mfg\\Multron File Guardian\\Multron File Guardian\\App.xaml.cs",
+              "RelativeToolTip": "Multron File Guardian\\App.xaml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T20:03:10.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\frknk\\OneDrive\\Masa\u00FCst\u00FC\\mfg\\Multron File Guardian\\Multron File Guardian\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Multron File Guardian\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\frknk\\OneDrive\\Masa\u00FCst\u00FC\\mfg\\Multron File Guardian\\Multron File Guardian\\AssemblyInfo.cs",
+              "RelativeToolTip": "Multron File Guardian\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T01:22:59.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "app.manifest",
+              "DocumentMoniker": "C:\\Users\\frknk\\OneDrive\\Masa\u00FCst\u00FC\\mfg\\Multron File Guardian\\Multron File Guardian\\app.manifest",
+              "RelativeDocumentMoniker": "Multron File Guardian\\app.manifest",
+              "ToolTip": "C:\\Users\\frknk\\OneDrive\\Masa\u00FCst\u00FC\\mfg\\Multron File Guardian\\Multron File Guardian\\app.manifest",
+              "RelativeToolTip": "Multron File Guardian\\app.manifest",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001203|",
+              "WhenOpened": "2025-12-07T20:03:10.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "NuGet.Build.Tasks.Pack.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\9.0.301\\Sdks\\NuGet.Build.Tasks.Pack\\build\\NuGet.Build.Tasks.Pack.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.301\\Sdks\\NuGet.Build.Tasks.Pack\\build\\NuGet.Build.Tasks.Pack.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\9.0.301\\Sdks\\NuGet.Build.Tasks.Pack\\build\\NuGet.Build.Tasks.Pack.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.301\\Sdks\\NuGet.Build.Tasks.Pack\\build\\NuGet.Build.Tasks.Pack.targets",
+              "ViewState": "AgIAAMsAAAAAAAAAAAAuwN4AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-12-07T20:03:10.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "XamlReader.cs",
+              "DocumentMoniker": "C:\\Users\\winba\\AppData\\Local\\Temp\\.vsdbgsrc\\aad6be2495d0a786b94b3514a5b6903407fe2d6a75ad7e505df6a9d895927867\\XamlReader.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\winba\\AppData\\Local\\Temp\\.vsdbgsrc\\aad6be2495d0a786b94b3514a5b6903407fe2d6a75ad7e505df6a9d895927867\\XamlReader.cs",
+              "ToolTip": "C:\\Users\\winba\\AppData\\Local\\Temp\\.vsdbgsrc\\aad6be2495d0a786b94b3514a5b6903407fe2d6a75ad7e505df6a9d895927867\\XamlReader.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\winba\\AppData\\Local\\Temp\\.vsdbgsrc\\aad6be2495d0a786b94b3514a5b6903407fe2d6a75ad7e505df6a9d895927867\\XamlReader.cs",
+              "ViewState": "AgIAAKQBAAAAAAAAAAAmwLUBAAACAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T20:03:10.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ResourcePart.cs",
+              "DocumentMoniker": "C:\\Users\\winba\\AppData\\Local\\Temp\\.vsdbgsrc\\b49ace08f4cd26a4f275d628999a0f91ccb8a1892704530d9e6f5bd1284082f1\\ResourcePart.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\winba\\AppData\\Local\\Temp\\.vsdbgsrc\\b49ace08f4cd26a4f275d628999a0f91ccb8a1892704530d9e6f5bd1284082f1\\ResourcePart.cs",
+              "ToolTip": "C:\\Users\\winba\\AppData\\Local\\Temp\\.vsdbgsrc\\b49ace08f4cd26a4f275d628999a0f91ccb8a1892704530d9e6f5bd1284082f1\\ResourcePart.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\winba\\AppData\\Local\\Temp\\.vsdbgsrc\\b49ace08f4cd26a4f275d628999a0f91ccb8a1892704530d9e6f5bd1284082f1\\ResourcePart.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAawCcAAAAEAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T20:03:10.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Multron File Guardian.csproj",
+              "DocumentMoniker": "C:\\Users\\frknk\\OneDrive\\Masa\u00FCst\u00FC\\mfg\\Multron File Guardian\\Multron File Guardian\\Multron File Guardian.csproj",
+              "RelativeDocumentMoniker": "Multron File Guardian\\Multron File Guardian.csproj",
+              "ToolTip": "C:\\Users\\frknk\\OneDrive\\Masa\u00FCst\u00FC\\mfg\\Multron File Guardian\\Multron File Guardian\\Multron File Guardian.csproj",
+              "RelativeToolTip": "Multron File Guardian\\Multron File Guardian.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-07T20:03:10.134Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

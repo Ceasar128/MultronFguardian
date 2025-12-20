@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 18
+VisualStudioVersion = 18.3.11312.210 d18.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Multron File Guardian", "Multron File Guardian\Multron File Guardian.csproj", "{7EEFB2BE-4BB5-4A2D-AABD-6267FD58565E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7EEFB2BE-4BB5-4A2D-AABD-6267FD58565E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EEFB2BE-4BB5-4A2D-AABD-6267FD58565E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EEFB2BE-4BB5-4A2D-AABD-6267FD58565E}.Debug|x64.ActiveCfg = Debug|x64
+		{7EEFB2BE-4BB5-4A2D-AABD-6267FD58565E}.Debug|x64.Build.0 = Debug|x64
+		{7EEFB2BE-4BB5-4A2D-AABD-6267FD58565E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EEFB2BE-4BB5-4A2D-AABD-6267FD58565E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7EEFB2BE-4BB5-4A2D-AABD-6267FD58565E}.Release|x64.ActiveCfg = Release|x64
+		{7EEFB2BE-4BB5-4A2D-AABD-6267FD58565E}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AF87D559-C8C0-4DFE-BACB-7E479937DA1A}
+	EndGlobalSection
+EndGlobal

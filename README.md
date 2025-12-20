@@ -4,16 +4,9 @@
 ![Release Date](https://img.shields.io/badge/Release%20Date-2025--12--20-seagreen)
 
 ## Contributors
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/winball501">
-        <img src="https://github.com/winball501.png" width="50" alt="username"/><br />
-        <sub><b>username</b></sub>
-      </a>
-    </td>
-  </tr>
-</table>
+<a href="https://github.com/winball501">
+  <img src="https://avatars.githubusercontent.com/winball501?s=50" alt="username">
+</a>
 
 ---
 

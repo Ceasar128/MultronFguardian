@@ -5,7 +5,7 @@
 
 ## Contributors
 <a href="https://github.com/winball501">
-  <img src="https://github.com/winball501.png" width="50px;" style="border-radius: 50%; alt="username"/>
+  <img src="https://github.com/winball501.png" width="50px;" style="border-radius: 50%;" alt="username"/>
 </a>
 
 

@@ -5,7 +5,12 @@
 
 ## Contributors
 
-- [@winball501](https://github.com/winball501)
+## Contributors
+
+<a href="https://github.com/winball501">
+  <img src="https://github.com/winball501.png" width="50px;" alt="username"/>
+</a>
+
 
 ---
 

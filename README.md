@@ -40,7 +40,7 @@
 - 🔐 HC
 - 🔐 RSA Hybrided With Symmetric Algorithms (Key Encapsulation Mechanism)
 
-* You can set RSA Key Length (from 2048 to 16384) (Default is 3072)
+* You can set RSA Key Length (from 2048 to 16384) (Default is 4096)
 * You can set Password-Iteration Rate. (Default is 4 Iteration)
 * You can set Argon2id Memory Rate. (Default is 256) {256, 512, 1024} | MB
 * You can set shredder iteration rate (1-99) (Default is 3)

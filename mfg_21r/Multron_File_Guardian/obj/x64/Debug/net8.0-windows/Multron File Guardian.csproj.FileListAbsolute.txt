@@ -1,0 +1,192 @@
+C:\Users\frknk\OneDrive\Masaüstü\mfg\Multron File Guardian\Multron File Guardian\bin\x64\Debug\net8.0-windows\Multron File Guardian.exe
+C:\Users\frknk\OneDrive\Masaüstü\mfg\Multron File Guardian\Multron File Guardian\bin\x64\Debug\net8.0-windows\Multron File Guardian.deps.json
+C:\Users\frknk\OneDrive\Masaüstü\mfg\Multron File Guardian\Multron File Guardian\bin\x64\Debug\net8.0-windows\Multron File Guardian.runtimeconfig.json
+C:\Users\frknk\OneDrive\Masaüstü\mfg\Multron File Guardian\Multron File Guardian\bin\x64\Debug\net8.0-windows\Multron File Guardian.dll
+C:\Users\frknk\OneDrive\Masaüstü\mfg\Multron File Guardian\Multron File Guardian\bin\x64\Debug\net8.0-windows\Multron File Guardian.pdb
+C:\Users\frknk\OneDrive\Masaüstü\mfg\Multron File Guardian\Multron File Guardian\bin\x64\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\frknk\OneDrive\Masaüstü\mfg\Multron File Guardian\Multron File Guardian\bin\x64\Debug\net8.0-windows\Microsoft.WindowsAPICodePack.dll
+C:\Users\frknk\OneDrive\Masaüstü\mfg\Multron File Guardian\Multron File Guardian\bin\x64\Debug\net8.0-windows\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\frknk\OneDrive\Masaüstü\mfg\Multron File Guardian\Multron File Guardian\bin\x64\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+C:\Users\frknk\OneDrive\Masaüstü\mfg\Multron File Guardian\Multron File Guardian\bin\x64\Debug\net8.0-windows\Microsoft.Extensions.ObjectPool.dll
+C:\Users\frknk\OneDrive\Masaüstü\mfg\Multron File Guardian\Multron File Guardian\bin\x64\Debug\net8.0-windows\Microsoft.Win32.Registry.AccessControl.dll
+C:\Users\frknk\OneDrive\Masaüstü\mfg\Multron File Guardian\Multron File Guardian\bin\x64\Debug\net8.0-windows\Microsoft.Win32.SystemEvents.dll
+C:\Users\frknk\OneDrive\Masaüstü\mfg\Multron File Guardian\Multron File Guardian\bin\x64\Debug\net8.0-windows\System.CodeDom.dll
+C:\Users\frknk\OneDrive\Masaüstü\mfg\Multron File Guardian\Multron File Guardian\bin\x64\Debug\net8.0-windows\System.ComponentModel.Composition.dll
+C:\Users\frknk\OneDrive\Masaüstü\mfg\Multron File Guardian\Multron File Guardian\bin\x64\Debug\net8.0-windows\System.ComponentModel.Composition.Registration.dll
+C:\Users\frknk\OneDrive\Masaüstü\mfg\Multron File Guardian\Multron File Guardian\bin\x64\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\frknk\OneDrive\Masaüstü\mfg\Multron File Guardian\Multron File Guardian\bin\x64\Debug\net8.0-windows\System.Data.Odbc.dll
+C:\Users\frknk\OneDrive\Masaüstü\mfg\Multron File Guardian\Multron File Guardian\bin\x64\Debug\net8.0-windows\System.Data.OleDb.dll
+C:\Users\frknk\OneDrive\Masaüstü\mfg\Multron File Guardian\Multron File Guardian\bin\x64\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\frknk\OneDrive\Masaüstü\mfg\Multron File Guardian\Multron File Guardian\bin\x64\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\frknk\OneDrive\Masaüstü\mfg\Multron File Guardian\Multron File Guardian\bin\x64\Debug\net8.0-windows\System.Diagnostics.PerformanceCounter.dll
+C:\Users\frknk\OneDrive\Masaüstü\mfg\Multron File Guardian\Multron File Guardian\bin\x64\Debug\net8.0-windows\System.DirectoryServices.dll
+C:\Users\frknk\OneDrive\Masaüstü\mfg\Multron File Guardian\Multron File Guardian\bin\x64\Debug\net8.0-windows\System.DirectoryServices.AccountManagement.dll
+C:\Users\frknk\OneDrive\Masaüstü\mfg\Multron File Guardian\Multron File Guardian\bin\x64\Debug\net8.0-windows\System.DirectoryServices.Protocols.dll
+C:\Users\frknk\OneDrive\Masaüstü\mfg\Multron File Guardian\Multron File Guardian\bin\x64\Debug\net8.0-windows\System.Drawing.Common.dll
+C:\Users\frknk\OneDrive\Masaüstü\mfg\Multron File Guardian\Multron File Guardian\bin\x64\Debug\net8.0-windows\System.Private.Windows.Core.dll
+C:\Users\frknk\OneDrive\Masaüstü\mfg\Multron File Guardian\Multron File Guardian\bin\x64\Debug\net8.0-windows\System.Private.Windows.GdiPlus.dll
+C:\Users\frknk\OneDrive\Masaüstü\mfg\Multron File Guardian\Multron File Guardian\bin\x64\Debug\net8.0-windows\System.Formats.Asn1.dll
+C:\Users\frknk\OneDrive\Masaüstü\mfg\Multron File Guardian\Multron File Guardian\bin\x64\Debug\net8.0-windows\System.IO.Packaging.dll
+C:\Users\frknk\OneDrive\Masaüstü\mfg\Multron File Guardian\Multron File Guardian\bin\x64\Debug\net8.0-windows\System.IO.Ports.dll
+C:\Users\frknk\OneDrive\Masaüstü\mfg\Multron File Guardian\Multron File Guardian\bin\x64\Debug\net8.0-windows\System.Management.dll
+C:\Users\frknk\OneDrive\Masaüstü\mfg\Multron File Guardian\Multron File Guardian\bin\x64\Debug\net8.0-windows\System.Reflection.Context.dll
+C:\Users\frknk\OneDrive\Masaüstü\mfg\Multron File Guardian\Multron File Guardian\bin\x64\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\frknk\OneDrive\Masaüstü\mfg\Multron File Guardian\Multron File Guardian\bin\x64\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\frknk\OneDrive\Masaüstü\mfg\Multron File Guardian\Multron File Guardian\bin\x64\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\frknk\OneDrive\Masaüstü\mfg\Multron File Guardian\Multron File Guardian\bin\x64\Debug\net8.0-windows\System.Security.Cryptography.Xml.dll
+C:\Users\frknk\OneDrive\Masaüstü\mfg\Multron File Guardian\Multron File Guardian\bin\x64\Debug\net8.0-windows\System.Security.Permissions.dll
+C:\Users\frknk\OneDrive\Masaüstü\mfg\Multron File Guardian\Multron File Guardian\bin\x64\Debug\net8.0-windows\System.ServiceModel.Http.dll
+C:\Users\frknk\OneDrive\Masaüstü\mfg\Multron File Guardian\Multron File Guardian\bin\x64\Debug\net8.0-windows\System.ServiceModel.NetFramingBase.dll
+C:\Users\frknk\OneDrive\Masaüstü\mfg\Multron File Guardian\Multron File Guardian\bin\x64\Debug\net8.0-windows\System.ServiceModel.NetTcp.dll
+C:\Users\frknk\OneDrive\Masaüstü\mfg\Multron File Guardian\Multron File Guardian\bin\x64\Debug\net8.0-windows\System.ServiceModel.Duplex.dll
+C:\Users\frknk\OneDrive\Masaüstü\mfg\Multron File Guardian\Multron File Guardian\bin\x64\Debug\net8.0-windows\System.ServiceModel.Primitives.dll
+C:\Users\frknk\OneDrive\Masaüstü\mfg\Multron File Guardian\Multron File Guardian\bin\x64\Debug\net8.0-windows\System.ServiceModel.Security.dll
+C:\Users\frknk\OneDrive\Masaüstü\mfg\Multron File Guardian\Multron File Guardian\bin\x64\Debug\net8.0-windows\System.ServiceModel.dll
+C:\Users\frknk\OneDrive\Masaüstü\mfg\Multron File Guardian\Multron File Guardian\bin\x64\Debug\net8.0-windows\System.ServiceModel.Syndication.dll
+C:\Users\frknk\OneDrive\Masaüstü\mfg\Multron File Guardian\Multron File Guardian\bin\x64\Debug\net8.0-windows\System.ServiceProcess.ServiceController.dll
+C:\Users\frknk\OneDrive\Masaüstü\mfg\Multron File Guardian\Multron File Guardian\bin\x64\Debug\net8.0-windows\System.Speech.dll
+C:\Users\frknk\OneDrive\Masaüstü\mfg\Multron File Guardian\Multron File Guardian\bin\x64\Debug\net8.0-windows\System.Text.Encoding.CodePages.dll
+C:\Users\frknk\OneDrive\Masaüstü\mfg\Multron File Guardian\Multron File Guardian\bin\x64\Debug\net8.0-windows\System.Threading.AccessControl.dll
+C:\Users\frknk\OneDrive\Masaüstü\mfg\Multron File Guardian\Multron File Guardian\bin\x64\Debug\net8.0-windows\System.Web.Services.Description.dll
+C:\Users\frknk\OneDrive\Masaüstü\mfg\Multron File Guardian\Multron File Guardian\bin\x64\Debug\net8.0-windows\System.Windows.Extensions.dll
+C:\Users\frknk\OneDrive\Masaüstü\mfg\Multron File Guardian\Multron File Guardian\bin\x64\Debug\net8.0-windows\cs\System.ServiceModel.Http.resources.dll
+C:\Users\frknk\OneDrive\Masaüstü\mfg\Multron File Guardian\Multron File Guardian\bin\x64\Debug\net8.0-windows\de\System.ServiceModel.Http.resources.dll
+C:\Users\frknk\OneDrive\Masaüstü\mfg\Multron File Guardian\Multron File Guardian\bin\x64\Debug\net8.0-windows\es\System.ServiceModel.Http.resources.dll
+C:\Users\frknk\OneDrive\Masaüstü\mfg\Multron File Guardian\Multron File Guardian\bin\x64\Debug\net8.0-windows\fr\System.ServiceModel.Http.resources.dll
+C:\Users\frknk\OneDrive\Masaüstü\mfg\Multron File Guardian\Multron File Guardian\bin\x64\Debug\net8.0-windows\it\System.ServiceModel.Http.resources.dll
+C:\Users\frknk\OneDrive\Masaüstü\mfg\Multron File Guardian\Multron File Guardian\bin\x64\Debug\net8.0-windows\ja\System.ServiceModel.Http.resources.dll
+C:\Users\frknk\OneDrive\Masaüstü\mfg\Multron File Guardian\Multron File Guardian\bin\x64\Debug\net8.0-windows\ko\System.ServiceModel.Http.resources.dll
+C:\Users\frknk\OneDrive\Masaüstü\mfg\Multron File Guardian\Multron File Guardian\bin\x64\Debug\net8.0-windows\pl\System.ServiceModel.Http.resources.dll
+C:\Users\frknk\OneDrive\Masaüstü\mfg\Multron File Guardian\Multron File Guardian\bin\x64\Debug\net8.0-windows\pt-BR\System.ServiceModel.Http.resources.dll
+C:\Users\frknk\OneDrive\Masaüstü\mfg\Multron File Guardian\Multron File Guardian\bin\x64\Debug\net8.0-windows\ru\System.ServiceModel.Http.resources.dll
+C:\Users\frknk\OneDrive\Masaüstü\mfg\Multron File Guardian\Multron File Guardian\bin\x64\Debug\net8.0-windows\tr\System.ServiceModel.Http.resources.dll
+C:\Users\frknk\OneDrive\Masaüstü\mfg\Multron File Guardian\Multron File Guardian\bin\x64\Debug\net8.0-windows\zh-Hans\System.ServiceModel.Http.resources.dll
+C:\Users\frknk\OneDrive\Masaüstü\mfg\Multron File Guardian\Multron File Guardian\bin\x64\Debug\net8.0-windows\zh-Hant\System.ServiceModel.Http.resources.dll
+C:\Users\frknk\OneDrive\Masaüstü\mfg\Multron File Guardian\Multron File Guardian\bin\x64\Debug\net8.0-windows\cs\System.ServiceModel.NetFramingBase.resources.dll
+C:\Users\frknk\OneDrive\Masaüstü\mfg\Multron File Guardian\Multron File Guardian\bin\x64\Debug\net8.0-windows\de\System.ServiceModel.NetFramingBase.resources.dll
+C:\Users\frknk\OneDrive\Masaüstü\mfg\Multron File Guardian\Multron File Guardian\bin\x64\Debug\net8.0-windows\es\System.ServiceModel.NetFramingBase.resources.dll
+C:\Users\frknk\OneDrive\Masaüstü\mfg\Multron File Guardian\Multron File Guardian\bin\x64\Debug\net8.0-windows\fr\System.ServiceModel.NetFramingBase.resources.dll
+C:\Users\frknk\OneDrive\Masaüstü\mfg\Multron File Guardian\Multron File Guardian\bin\x64\Debug\net8.0-windows\it\System.ServiceModel.NetFramingBase.resources.dll
+C:\Users\frknk\OneDrive\Masaüstü\mfg\Multron File Guardian\Multron File Guardian\bin\x64\Debug\net8.0-windows\ja\System.ServiceModel.NetFramingBase.resources.dll
+C:\Users\frknk\OneDrive\Masaüstü\mfg\Multron File Guardian\Multron File Guardian\bin\x64\Debug\net8.0-windows\ko\System.ServiceModel.NetFramingBase.resources.dll
+C:\Users\frknk\OneDrive\Masaüstü\mfg\Multron File Guardian\Multron File Guardian\bin\x64\Debug\net8.0-windows\pl\System.ServiceModel.NetFramingBase.resources.dll
+C:\Users\frknk\OneDrive\Masaüstü\mfg\Multron File Guardian\Multron File Guardian\bin\x64\Debug\net8.0-windows\pt-BR\System.ServiceModel.NetFramingBase.resources.dll
+C:\Users\frknk\OneDrive\Masaüstü\mfg\Multron File Guardian\Multron File Guardian\bin\x64\Debug\net8.0-windows\ru\System.ServiceModel.NetFramingBase.resources.dll
+C:\Users\frknk\OneDrive\Masaüstü\mfg\Multron File Guardian\Multron File Guardian\bin\x64\Debug\net8.0-windows\tr\System.ServiceModel.NetFramingBase.resources.dll
+C:\Users\frknk\OneDrive\Masaüstü\mfg\Multron File Guardian\Multron File Guardian\bin\x64\Debug\net8.0-windows\zh-Hans\System.ServiceModel.NetFramingBase.resources.dll
+C:\Users\frknk\OneDrive\Masaüstü\mfg\Multron File Guardian\Multron File Guardian\bin\x64\Debug\net8.0-windows\zh-Hant\System.ServiceModel.NetFramingBase.resources.dll
+C:\Users\frknk\OneDrive\Masaüstü\mfg\Multron File Guardian\Multron File Guardian\bin\x64\Debug\net8.0-windows\cs\System.ServiceModel.NetTcp.resources.dll
+C:\Users\frknk\OneDrive\Masaüstü\mfg\Multron File Guardian\Multron File Guardian\bin\x64\Debug\net8.0-windows\de\System.ServiceModel.NetTcp.resources.dll
+C:\Users\frknk\OneDrive\Masaüstü\mfg\Multron File Guardian\Multron File Guardian\bin\x64\Debug\net8.0-windows\es\System.ServiceModel.NetTcp.resources.dll
+C:\Users\frknk\OneDrive\Masaüstü\mfg\Multron File Guardian\Multron File Guardian\bin\x64\Debug\net8.0-windows\fr\System.ServiceModel.NetTcp.resources.dll
+C:\Users\frknk\OneDrive\Masaüstü\mfg\Multron File Guardian\Multron File Guardian\bin\x64\Debug\net8.0-windows\it\System.ServiceModel.NetTcp.resources.dll
+C:\Users\frknk\OneDrive\Masaüstü\mfg\Multron File Guardian\Multron File Guardian\bin\x64\Debug\net8.0-windows\ja\System.ServiceModel.NetTcp.resources.dll
+C:\Users\frknk\OneDrive\Masaüstü\mfg\Multron File Guardian\Multron File Guardian\bin\x64\Debug\net8.0-windows\ko\System.ServiceModel.NetTcp.resources.dll
+C:\Users\frknk\OneDrive\Masaüstü\mfg\Multron File Guardian\Multron File Guardian\bin\x64\Debug\net8.0-windows\pl\System.ServiceModel.NetTcp.resources.dll
+C:\Users\frknk\OneDrive\Masaüstü\mfg\Multron File Guardian\Multron File Guardian\bin\x64\Debug\net8.0-windows\pt-BR\System.ServiceModel.NetTcp.resources.dll
+C:\Users\frknk\OneDrive\Masaüstü\mfg\Multron File Guardian\Multron File Guardian\bin\x64\Debug\net8.0-windows\ru\System.ServiceModel.NetTcp.resources.dll
+C:\Users\frknk\OneDrive\Masaüstü\mfg\Multron File Guardian\Multron File Guardian\bin\x64\Debug\net8.0-windows\tr\System.ServiceModel.NetTcp.resources.dll
+C:\Users\frknk\OneDrive\Masaüstü\mfg\Multron File Guardian\Multron File Guardian\bin\x64\Debug\net8.0-windows\zh-Hans\System.ServiceModel.NetTcp.resources.dll
+C:\Users\frknk\OneDrive\Masaüstü\mfg\Multron File Guardian\Multron File Guardian\bin\x64\Debug\net8.0-windows\zh-Hant\System.ServiceModel.NetTcp.resources.dll
+C:\Users\frknk\OneDrive\Masaüstü\mfg\Multron File Guardian\Multron File Guardian\bin\x64\Debug\net8.0-windows\cs\System.ServiceModel.Primitives.resources.dll
+C:\Users\frknk\OneDrive\Masaüstü\mfg\Multron File Guardian\Multron File Guardian\bin\x64\Debug\net8.0-windows\de\System.ServiceModel.Primitives.resources.dll
+C:\Users\frknk\OneDrive\Masaüstü\mfg\Multron File Guardian\Multron File Guardian\bin\x64\Debug\net8.0-windows\es\System.ServiceModel.Primitives.resources.dll
+C:\Users\frknk\OneDrive\Masaüstü\mfg\Multron File Guardian\Multron File Guardian\bin\x64\Debug\net8.0-windows\fr\System.ServiceModel.Primitives.resources.dll
+C:\Users\frknk\OneDrive\Masaüstü\mfg\Multron File Guardian\Multron File Guardian\bin\x64\Debug\net8.0-windows\it\System.ServiceModel.Primitives.resources.dll
+C:\Users\frknk\OneDrive\Masaüstü\mfg\Multron File Guardian\Multron File Guardian\bin\x64\Debug\net8.0-windows\ja\System.ServiceModel.Primitives.resources.dll
+C:\Users\frknk\OneDrive\Masaüstü\mfg\Multron File Guardian\Multron File Guardian\bin\x64\Debug\net8.0-windows\ko\System.ServiceModel.Primitives.resources.dll
+C:\Users\frknk\OneDrive\Masaüstü\mfg\Multron File Guardian\Multron File Guardian\bin\x64\Debug\net8.0-windows\pl\System.ServiceModel.Primitives.resources.dll
+C:\Users\frknk\OneDrive\Masaüstü\mfg\Multron File Guardian\Multron File Guardian\bin\x64\Debug\net8.0-windows\pt-BR\System.ServiceModel.Primitives.resources.dll
+C:\Users\frknk\OneDrive\Masaüstü\mfg\Multron File Guardian\Multron File Guardian\bin\x64\Debug\net8.0-windows\ru\System.ServiceModel.Primitives.resources.dll
+C:\Users\frknk\OneDrive\Masaüstü\mfg\Multron File Guardian\Multron File Guardian\bin\x64\Debug\net8.0-windows\tr\System.ServiceModel.Primitives.resources.dll
+C:\Users\frknk\OneDrive\Masaüstü\mfg\Multron File Guardian\Multron File Guardian\bin\x64\Debug\net8.0-windows\zh-Hans\System.ServiceModel.Primitives.resources.dll
+C:\Users\frknk\OneDrive\Masaüstü\mfg\Multron File Guardian\Multron File Guardian\bin\x64\Debug\net8.0-windows\zh-Hant\System.ServiceModel.Primitives.resources.dll
+C:\Users\frknk\OneDrive\Masaüstü\mfg\Multron File Guardian\Multron File Guardian\bin\x64\Debug\net8.0-windows\cs\System.Web.Services.Description.resources.dll
+C:\Users\frknk\OneDrive\Masaüstü\mfg\Multron File Guardian\Multron File Guardian\bin\x64\Debug\net8.0-windows\de\System.Web.Services.Description.resources.dll
+C:\Users\frknk\OneDrive\Masaüstü\mfg\Multron File Guardian\Multron File Guardian\bin\x64\Debug\net8.0-windows\es\System.Web.Services.Description.resources.dll
+C:\Users\frknk\OneDrive\Masaüstü\mfg\Multron File Guardian\Multron File Guardian\bin\x64\Debug\net8.0-windows\fr\System.Web.Services.Description.resources.dll
+C:\Users\frknk\OneDrive\Masaüstü\mfg\Multron File Guardian\Multron File Guardian\bin\x64\Debug\net8.0-windows\it\System.Web.Services.Description.resources.dll
+C:\Users\frknk\OneDrive\Masaüstü\mfg\Multron File Guardian\Multron File Guardian\bin\x64\Debug\net8.0-windows\ja\System.Web.Services.Description.resources.dll
+C:\Users\frknk\OneDrive\Masaüstü\mfg\Multron File Guardian\Multron File Guardian\bin\x64\Debug\net8.0-windows\ko\System.Web.Services.Description.resources.dll
+C:\Users\frknk\OneDrive\Masaüstü\mfg\Multron File Guardian\Multron File Guardian\bin\x64\Debug\net8.0-windows\pl\System.Web.Services.Description.resources.dll
+C:\Users\frknk\OneDrive\Masaüstü\mfg\Multron File Guardian\Multron File Guardian\bin\x64\Debug\net8.0-windows\pt-BR\System.Web.Services.Description.resources.dll
+C:\Users\frknk\OneDrive\Masaüstü\mfg\Multron File Guardian\Multron File Guardian\bin\x64\Debug\net8.0-windows\ru\System.Web.Services.Description.resources.dll
+C:\Users\frknk\OneDrive\Masaüstü\mfg\Multron File Guardian\Multron File Guardian\bin\x64\Debug\net8.0-windows\tr\System.Web.Services.Description.resources.dll
+C:\Users\frknk\OneDrive\Masaüstü\mfg\Multron File Guardian\Multron File Guardian\bin\x64\Debug\net8.0-windows\zh-Hans\System.Web.Services.Description.resources.dll
+C:\Users\frknk\OneDrive\Masaüstü\mfg\Multron File Guardian\Multron File Guardian\bin\x64\Debug\net8.0-windows\zh-Hant\System.Web.Services.Description.resources.dll
+C:\Users\frknk\OneDrive\Masaüstü\mfg\Multron File Guardian\Multron File Guardian\bin\x64\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Win32.Registry.AccessControl.dll
+C:\Users\frknk\OneDrive\Masaüstü\mfg\Multron File Guardian\Multron File Guardian\bin\x64\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\frknk\OneDrive\Masaüstü\mfg\Multron File Guardian\Multron File Guardian\bin\x64\Debug\net8.0-windows\runtimes\android-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\frknk\OneDrive\Masaüstü\mfg\Multron File Guardian\Multron File Guardian\bin\x64\Debug\net8.0-windows\runtimes\android-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\frknk\OneDrive\Masaüstü\mfg\Multron File Guardian\Multron File Guardian\bin\x64\Debug\net8.0-windows\runtimes\android-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\frknk\OneDrive\Masaüstü\mfg\Multron File Guardian\Multron File Guardian\bin\x64\Debug\net8.0-windows\runtimes\android-x86\native\libSystem.IO.Ports.Native.so
+C:\Users\frknk\OneDrive\Masaüstü\mfg\Multron File Guardian\Multron File Guardian\bin\x64\Debug\net8.0-windows\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\frknk\OneDrive\Masaüstü\mfg\Multron File Guardian\Multron File Guardian\bin\x64\Debug\net8.0-windows\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\frknk\OneDrive\Masaüstü\mfg\Multron File Guardian\Multron File Guardian\bin\x64\Debug\net8.0-windows\runtimes\linux-bionic-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\frknk\OneDrive\Masaüstü\mfg\Multron File Guardian\Multron File Guardian\bin\x64\Debug\net8.0-windows\runtimes\linux-bionic-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\frknk\OneDrive\Masaüstü\mfg\Multron File Guardian\Multron File Guardian\bin\x64\Debug\net8.0-windows\runtimes\linux-musl-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\frknk\OneDrive\Masaüstü\mfg\Multron File Guardian\Multron File Guardian\bin\x64\Debug\net8.0-windows\runtimes\linux-musl-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\frknk\OneDrive\Masaüstü\mfg\Multron File Guardian\Multron File Guardian\bin\x64\Debug\net8.0-windows\runtimes\linux-musl-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\frknk\OneDrive\Masaüstü\mfg\Multron File Guardian\Multron File Guardian\bin\x64\Debug\net8.0-windows\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\frknk\OneDrive\Masaüstü\mfg\Multron File Guardian\Multron File Guardian\bin\x64\Debug\net8.0-windows\runtimes\maccatalyst-arm64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\frknk\OneDrive\Masaüstü\mfg\Multron File Guardian\Multron File Guardian\bin\x64\Debug\net8.0-windows\runtimes\maccatalyst-x64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\frknk\OneDrive\Masaüstü\mfg\Multron File Guardian\Multron File Guardian\bin\x64\Debug\net8.0-windows\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\frknk\OneDrive\Masaüstü\mfg\Multron File Guardian\Multron File Guardian\bin\x64\Debug\net8.0-windows\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\frknk\OneDrive\Masaüstü\mfg\Multron File Guardian\Multron File Guardian\bin\x64\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\frknk\OneDrive\Masaüstü\mfg\Multron File Guardian\Multron File Guardian\bin\x64\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\frknk\OneDrive\Masaüstü\mfg\Multron File Guardian\Multron File Guardian\bin\x64\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\frknk\OneDrive\Masaüstü\mfg\Multron File Guardian\Multron File Guardian\bin\x64\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.Odbc.dll
+C:\Users\frknk\OneDrive\Masaüstü\mfg\Multron File Guardian\Multron File Guardian\bin\x64\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.Odbc.dll
+C:\Users\frknk\OneDrive\Masaüstü\mfg\Multron File Guardian\Multron File Guardian\bin\x64\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.OleDb.dll
+C:\Users\frknk\OneDrive\Masaüstü\mfg\Multron File Guardian\Multron File Guardian\bin\x64\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\frknk\OneDrive\Masaüstü\mfg\Multron File Guardian\Multron File Guardian\bin\x64\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\frknk\OneDrive\Masaüstü\mfg\Multron File Guardian\Multron File Guardian\bin\x64\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\frknk\OneDrive\Masaüstü\mfg\Multron File Guardian\Multron File Guardian\bin\x64\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\frknk\OneDrive\Masaüstü\mfg\Multron File Guardian\Multron File Guardian\bin\x64\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\frknk\OneDrive\Masaüstü\mfg\Multron File Guardian\Multron File Guardian\bin\x64\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.DirectoryServices.dll
+C:\Users\frknk\OneDrive\Masaüstü\mfg\Multron File Guardian\Multron File Guardian\bin\x64\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.DirectoryServices.AccountManagement.dll
+C:\Users\frknk\OneDrive\Masaüstü\mfg\Multron File Guardian\Multron File Guardian\bin\x64\Debug\net8.0-windows\runtimes\linux\lib\net8.0\System.DirectoryServices.Protocols.dll
+C:\Users\frknk\OneDrive\Masaüstü\mfg\Multron File Guardian\Multron File Guardian\bin\x64\Debug\net8.0-windows\runtimes\osx\lib\net8.0\System.DirectoryServices.Protocols.dll
+C:\Users\frknk\OneDrive\Masaüstü\mfg\Multron File Guardian\Multron File Guardian\bin\x64\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.DirectoryServices.Protocols.dll
+C:\Users\frknk\OneDrive\Masaüstü\mfg\Multron File Guardian\Multron File Guardian\bin\x64\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.IO.Ports.dll
+C:\Users\frknk\OneDrive\Masaüstü\mfg\Multron File Guardian\Multron File Guardian\bin\x64\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.IO.Ports.dll
+C:\Users\frknk\OneDrive\Masaüstü\mfg\Multron File Guardian\Multron File Guardian\bin\x64\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Management.dll
+C:\Users\frknk\OneDrive\Masaüstü\mfg\Multron File Guardian\Multron File Guardian\bin\x64\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+C:\Users\frknk\OneDrive\Masaüstü\mfg\Multron File Guardian\Multron File Guardian\bin\x64\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\frknk\OneDrive\Masaüstü\mfg\Multron File Guardian\Multron File Guardian\bin\x64\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.ServiceProcess.ServiceController.dll
+C:\Users\frknk\OneDrive\Masaüstü\mfg\Multron File Guardian\Multron File Guardian\bin\x64\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Speech.dll
+C:\Users\frknk\OneDrive\Masaüstü\mfg\Multron File Guardian\Multron File Guardian\bin\x64\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Text.Encoding.CodePages.dll
+C:\Users\frknk\OneDrive\Masaüstü\mfg\Multron File Guardian\Multron File Guardian\bin\x64\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Threading.AccessControl.dll
+C:\Users\frknk\OneDrive\Masaüstü\mfg\Multron File Guardian\Multron File Guardian\bin\x64\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+C:\Users\frknk\OneDrive\Masaüstü\mfg\Multron File Guardian\Multron File Guardian\obj\x64\Debug\net8.0-windows\Multron File Guardian.csproj.AssemblyReference.cache
+C:\Users\frknk\OneDrive\Masaüstü\mfg\Multron File Guardian\Multron File Guardian\obj\x64\Debug\net8.0-windows\Interop.IWshRuntimeLibrary.dll
+C:\Users\frknk\OneDrive\Masaüstü\mfg\Multron File Guardian\Multron File Guardian\obj\x64\Debug\net8.0-windows\Multron File Guardian.csproj.ResolveComReference.cache
+C:\Users\frknk\OneDrive\Masaüstü\mfg\Multron File Guardian\Multron File Guardian\obj\x64\Debug\net8.0-windows\Themes\Dark.baml
+C:\Users\frknk\OneDrive\Masaüstü\mfg\Multron File Guardian\Multron File Guardian\obj\x64\Debug\net8.0-windows\Themes\Light.baml
+C:\Users\frknk\OneDrive\Masaüstü\mfg\Multron File Guardian\Multron File Guardian\obj\x64\Debug\net8.0-windows\Window1.baml
+C:\Users\frknk\OneDrive\Masaüstü\mfg\Multron File Guardian\Multron File Guardian\obj\x64\Debug\net8.0-windows\Window2.baml
+C:\Users\frknk\OneDrive\Masaüstü\mfg\Multron File Guardian\Multron File Guardian\obj\x64\Debug\net8.0-windows\Window3.baml
+C:\Users\frknk\OneDrive\Masaüstü\mfg\Multron File Guardian\Multron File Guardian\obj\x64\Debug\net8.0-windows\Window4.baml
+C:\Users\frknk\OneDrive\Masaüstü\mfg\Multron File Guardian\Multron File Guardian\obj\x64\Debug\net8.0-windows\Window5.baml
+C:\Users\frknk\OneDrive\Masaüstü\mfg\Multron File Guardian\Multron File Guardian\obj\x64\Debug\net8.0-windows\Window6.baml
+C:\Users\frknk\OneDrive\Masaüstü\mfg\Multron File Guardian\Multron File Guardian\obj\x64\Debug\net8.0-windows\App.baml
+C:\Users\frknk\OneDrive\Masaüstü\mfg\Multron File Guardian\Multron File Guardian\obj\x64\Debug\net8.0-windows\Window1.g.cs
+C:\Users\frknk\OneDrive\Masaüstü\mfg\Multron File Guardian\Multron File Guardian\obj\x64\Debug\net8.0-windows\Window2.g.cs
+C:\Users\frknk\OneDrive\Masaüstü\mfg\Multron File Guardian\Multron File Guardian\obj\x64\Debug\net8.0-windows\Window3.g.cs
+C:\Users\frknk\OneDrive\Masaüstü\mfg\Multron File Guardian\Multron File Guardian\obj\x64\Debug\net8.0-windows\Window4.g.cs
+C:\Users\frknk\OneDrive\Masaüstü\mfg\Multron File Guardian\Multron File Guardian\obj\x64\Debug\net8.0-windows\Window5.g.cs
+C:\Users\frknk\OneDrive\Masaüstü\mfg\Multron File Guardian\Multron File Guardian\obj\x64\Debug\net8.0-windows\Window6.g.cs
+C:\Users\frknk\OneDrive\Masaüstü\mfg\Multron File Guardian\Multron File Guardian\obj\x64\Debug\net8.0-windows\App.g.cs
+C:\Users\frknk\OneDrive\Masaüstü\mfg\Multron File Guardian\Multron File Guardian\obj\x64\Debug\net8.0-windows\Multron File Guardian_Content.g.cs
+C:\Users\frknk\OneDrive\Masaüstü\mfg\Multron File Guardian\Multron File Guardian\obj\x64\Debug\net8.0-windows\Multron File Guardian_MarkupCompile.cache
+C:\Users\frknk\OneDrive\Masaüstü\mfg\Multron File Guardian\Multron File Guardian\obj\x64\Debug\net8.0-windows\Multron File Guardian.g.resources
+C:\Users\frknk\OneDrive\Masaüstü\mfg\Multron File Guardian\Multron File Guardian\obj\x64\Debug\net8.0-windows\Multron File Guardian.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frknk\OneDrive\Masaüstü\mfg\Multron File Guardian\Multron File Guardian\obj\x64\Debug\net8.0-windows\Multron File Guardian.AssemblyInfoInputs.cache
+C:\Users\frknk\OneDrive\Masaüstü\mfg\Multron File Guardian\Multron File Guardian\obj\x64\Debug\net8.0-windows\Multron File Guardian.AssemblyInfo.cs
+C:\Users\frknk\OneDrive\Masaüstü\mfg\Multron File Guardian\Multron File Guardian\obj\x64\Debug\net8.0-windows\Multron File Guardian.csproj.CoreCompileInputs.cache
+C:\Users\frknk\OneDrive\Masaüstü\mfg\Multron File Guardian\Multron File Guardian\obj\x64\Debug\net8.0-windows\Multron .7F28BDFB.Up2Date
+C:\Users\frknk\OneDrive\Masaüstü\mfg\Multron File Guardian\Multron File Guardian\obj\x64\Debug\net8.0-windows\Multron File Guardian.dll
+C:\Users\frknk\OneDrive\Masaüstü\mfg\Multron File Guardian\Multron File Guardian\obj\x64\Debug\net8.0-windows\refint\Multron File Guardian.dll
+C:\Users\frknk\OneDrive\Masaüstü\mfg\Multron File Guardian\Multron File Guardian\obj\x64\Debug\net8.0-windows\Multron File Guardian.pdb
+C:\Users\frknk\OneDrive\Masaüstü\mfg\Multron File Guardian\Multron File Guardian\obj\x64\Debug\net8.0-windows\Multron File Guardian.genruntimeconfig.cache
+C:\Users\frknk\OneDrive\Masaüstü\mfg\Multron File Guardian\Multron File Guardian\obj\x64\Debug\net8.0-windows\ref\Multron File Guardian.dll

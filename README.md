@@ -68,8 +68,7 @@
 
 # 🛠️ Requirements
 - .NET Core 8
-- 64 Bit CPU/OS (X64)
-- 2 Core 2 Thread CPU.
+- 64 Bit CPU/OS (X64)  
 - Windows 11 Fully supported
 - Windows 10 Partially supported
 

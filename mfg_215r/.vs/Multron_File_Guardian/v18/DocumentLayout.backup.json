@@ -1,0 +1,337 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\indirilenler\\MultronFguardian-mfgr214p\\MultronFguardian-mfgr214p\\mfg_214r\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7EEFB2BE-4BB5-4A2D-AABD-6267FD58565E}|Multron_File_Guardian\\Multron_File_Guardian.csproj|d:\\indirilenler\\multronfguardian-mfgr214p\\multronfguardian-mfgr214p\\mfg_214r\\multron_file_guardian\\window2.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EEFB2BE-4BB5-4A2D-AABD-6267FD58565E}|Multron_File_Guardian\\Multron_File_Guardian.csproj|solutionrelative:multron_file_guardian\\window2.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EEFB2BE-4BB5-4A2D-AABD-6267FD58565E}|Multron_File_Guardian\\Multron_File_Guardian.csproj|d:\\indirilenler\\multronfguardian-mfgr214p\\multronfguardian-mfgr214p\\mfg_214r\\multron_file_guardian\\window2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7EEFB2BE-4BB5-4A2D-AABD-6267FD58565E}|Multron_File_Guardian\\Multron_File_Guardian.csproj|solutionrelative:multron_file_guardian\\window2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EEFB2BE-4BB5-4A2D-AABD-6267FD58565E}|Multron_File_Guardian\\Multron_File_Guardian.csproj|d:\\indirilenler\\multronfguardian-mfgr214p\\multronfguardian-mfgr214p\\mfg_214r\\multron_file_guardian\\mngprocesses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EEFB2BE-4BB5-4A2D-AABD-6267FD58565E}|Multron_File_Guardian\\Multron_File_Guardian.csproj|solutionrelative:multron_file_guardian\\mngprocesses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EEFB2BE-4BB5-4A2D-AABD-6267FD58565E}|Multron_File_Guardian\\Multron_File_Guardian.csproj|d:\\indirilenler\\multronfguardian-mfgr214p\\multronfguardian-mfgr214p\\mfg_214r\\multron_file_guardian\\window1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7EEFB2BE-4BB5-4A2D-AABD-6267FD58565E}|Multron_File_Guardian\\Multron_File_Guardian.csproj|solutionrelative:multron_file_guardian\\window1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EEFB2BE-4BB5-4A2D-AABD-6267FD58565E}|Multron_File_Guardian\\Multron_File_Guardian.csproj|d:\\indirilenler\\multronfguardian-mfgr214p\\multronfguardian-mfgr214p\\mfg_214r\\multron_file_guardian\\window6.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7EEFB2BE-4BB5-4A2D-AABD-6267FD58565E}|Multron_File_Guardian\\Multron_File_Guardian.csproj|solutionrelative:multron_file_guardian\\window6.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EEFB2BE-4BB5-4A2D-AABD-6267FD58565E}|Multron_File_Guardian\\Multron_File_Guardian.csproj|d:\\indirilenler\\multronfguardian-mfgr214p\\multronfguardian-mfgr214p\\mfg_214r\\multron_file_guardian\\processes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EEFB2BE-4BB5-4A2D-AABD-6267FD58565E}|Multron_File_Guardian\\Multron_File_Guardian.csproj|solutionrelative:multron_file_guardian\\processes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EEFB2BE-4BB5-4A2D-AABD-6267FD58565E}|Multron_File_Guardian\\Multron_File_Guardian.csproj|d:\\indirilenler\\multronfguardian-mfgr214p\\multronfguardian-mfgr214p\\mfg_214r\\multron_file_guardian\\window5.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EEFB2BE-4BB5-4A2D-AABD-6267FD58565E}|Multron_File_Guardian\\Multron_File_Guardian.csproj|solutionrelative:multron_file_guardian\\window5.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EEFB2BE-4BB5-4A2D-AABD-6267FD58565E}|Multron_File_Guardian\\Multron_File_Guardian.csproj|d:\\indirilenler\\multronfguardian-mfgr214p\\multronfguardian-mfgr214p\\mfg_214r\\multron_file_guardian\\window5.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7EEFB2BE-4BB5-4A2D-AABD-6267FD58565E}|Multron_File_Guardian\\Multron_File_Guardian.csproj|solutionrelative:multron_file_guardian\\window5.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EEFB2BE-4BB5-4A2D-AABD-6267FD58565E}|Multron_File_Guardian\\Multron_File_Guardian.csproj|d:\\indirilenler\\multronfguardian-mfgr214p\\multronfguardian-mfgr214p\\mfg_214r\\multron_file_guardian\\window6.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EEFB2BE-4BB5-4A2D-AABD-6267FD58565E}|Multron_File_Guardian\\Multron_File_Guardian.csproj|solutionrelative:multron_file_guardian\\window6.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EEFB2BE-4BB5-4A2D-AABD-6267FD58565E}|Multron_File_Guardian\\Multron_File_Guardian.csproj|d:\\indirilenler\\multronfguardian-mfgr214p\\multronfguardian-mfgr214p\\mfg_214r\\multron_file_guardian\\window1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EEFB2BE-4BB5-4A2D-AABD-6267FD58565E}|Multron_File_Guardian\\Multron_File_Guardian.csproj|solutionrelative:multron_file_guardian\\window1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EEFB2BE-4BB5-4A2D-AABD-6267FD58565E}|Multron_File_Guardian\\Multron_File_Guardian.csproj|d:\\indirilenler\\multronfguardian-mfgr214p\\multronfguardian-mfgr214p\\mfg_214r\\multron_file_guardian\\multron_file_guardian.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{7EEFB2BE-4BB5-4A2D-AABD-6267FD58565E}|Multron_File_Guardian\\Multron_File_Guardian.csproj|solutionrelative:multron_file_guardian\\multron_file_guardian.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EEFB2BE-4BB5-4A2D-AABD-6267FD58565E}|Multron_File_Guardian\\Multron_File_Guardian.csproj|d:\\indirilenler\\multronfguardian-mfgr214p\\multronfguardian-mfgr214p\\mfg_214r\\multron_file_guardian\\window3.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EEFB2BE-4BB5-4A2D-AABD-6267FD58565E}|Multron_File_Guardian\\Multron_File_Guardian.csproj|solutionrelative:multron_file_guardian\\window3.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EEFB2BE-4BB5-4A2D-AABD-6267FD58565E}|Multron_File_Guardian\\Multron_File_Guardian.csproj|d:\\indirilenler\\multronfguardian-mfgr214p\\multronfguardian-mfgr214p\\mfg_214r\\multron_file_guardian\\window3.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7EEFB2BE-4BB5-4A2D-AABD-6267FD58565E}|Multron_File_Guardian\\Multron_File_Guardian.csproj|solutionrelative:multron_file_guardian\\window3.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EEFB2BE-4BB5-4A2D-AABD-6267FD58565E}|Multron_File_Guardian\\Multron_File_Guardian.csproj|d:\\indirilenler\\multronfguardian-mfgr214p\\multronfguardian-mfgr214p\\mfg_214r\\multron_file_guardian\\window4.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7EEFB2BE-4BB5-4A2D-AABD-6267FD58565E}|Multron_File_Guardian\\Multron_File_Guardian.csproj|solutionrelative:multron_file_guardian\\window4.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EEFB2BE-4BB5-4A2D-AABD-6267FD58565E}|Multron_File_Guardian\\Multron_File_Guardian.csproj|d:\\indirilenler\\multronfguardian-mfgr214p\\multronfguardian-mfgr214p\\mfg_214r\\multron_file_guardian\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EEFB2BE-4BB5-4A2D-AABD-6267FD58565E}|Multron_File_Guardian\\Multron_File_Guardian.csproj|solutionrelative:multron_file_guardian\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EEFB2BE-4BB5-4A2D-AABD-6267FD58565E}|Multron_File_Guardian\\Multron_File_Guardian.csproj|d:\\indirilenler\\multronfguardian-mfgr214p\\multronfguardian-mfgr214p\\mfg_214r\\multron_file_guardian\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7EEFB2BE-4BB5-4A2D-AABD-6267FD58565E}|Multron_File_Guardian\\Multron_File_Guardian.csproj|solutionrelative:multron_file_guardian\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EEFB2BE-4BB5-4A2D-AABD-6267FD58565E}|Multron_File_Guardian\\Multron_File_Guardian.csproj|d:\\indirilenler\\multronfguardian-mfgr214p\\multronfguardian-mfgr214p\\mfg_214r\\multron_file_guardian\\window4.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EEFB2BE-4BB5-4A2D-AABD-6267FD58565E}|Multron_File_Guardian\\Multron_File_Guardian.csproj|solutionrelative:multron_file_guardian\\window4.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EEFB2BE-4BB5-4A2D-AABD-6267FD58565E}|Multron_File_Guardian\\Multron_File_Guardian.csproj|d:\\indirilenler\\multronfguardian-mfgr214p\\multronfguardian-mfgr214p\\mfg_214r\\multron_file_guardian\\themes\\light.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7EEFB2BE-4BB5-4A2D-AABD-6267FD58565E}|Multron_File_Guardian\\Multron_File_Guardian.csproj|solutionrelative:multron_file_guardian\\themes\\light.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EEFB2BE-4BB5-4A2D-AABD-6267FD58565E}|Multron_File_Guardian\\Multron_File_Guardian.csproj|d:\\indirilenler\\multronfguardian-mfgr214p\\multronfguardian-mfgr214p\\mfg_214r\\multron_file_guardian\\themes\\dark.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7EEFB2BE-4BB5-4A2D-AABD-6267FD58565E}|Multron_File_Guardian\\Multron_File_Guardian.csproj|solutionrelative:multron_file_guardian\\themes\\dark.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EEFB2BE-4BB5-4A2D-AABD-6267FD58565E}|Multron_File_Guardian\\Multron_File_Guardian.csproj|d:\\indirilenler\\multronfguardian-mfgr214p\\multronfguardian-mfgr214p\\mfg_214r\\multron_file_guardian\\raes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EEFB2BE-4BB5-4A2D-AABD-6267FD58565E}|Multron_File_Guardian\\Multron_File_Guardian.csproj|solutionrelative:multron_file_guardian\\raes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Window1.xaml",
+              "DocumentMoniker": "D:\\indirilenler\\MultronFguardian-mfgr214p\\MultronFguardian-mfgr214p\\mfg_214r\\Multron_File_Guardian\\Window1.xaml",
+              "RelativeDocumentMoniker": "Multron_File_Guardian\\Window1.xaml",
+              "ToolTip": "D:\\indirilenler\\MultronFguardian-mfgr214p\\MultronFguardian-mfgr214p\\mfg_214r\\Multron_File_Guardian\\Window1.xaml",
+              "RelativeToolTip": "Multron_File_Guardian\\Window1.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-26T21:18:31.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "mngProcesses.cs",
+              "DocumentMoniker": "D:\\indirilenler\\MultronFguardian-mfgr214p\\MultronFguardian-mfgr214p\\mfg_214r\\Multron_File_Guardian\\mngProcesses.cs",
+              "RelativeDocumentMoniker": "Multron_File_Guardian\\mngProcesses.cs",
+              "ToolTip": "D:\\indirilenler\\MultronFguardian-mfgr214p\\MultronFguardian-mfgr214p\\mfg_214r\\Multron_File_Guardian\\mngProcesses.cs",
+              "RelativeToolTip": "Multron_File_Guardian\\mngProcesses.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAIAwwD0AAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T22:14:11.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Window6.xaml",
+              "DocumentMoniker": "D:\\indirilenler\\MultronFguardian-mfgr214p\\MultronFguardian-mfgr214p\\mfg_214r\\Multron_File_Guardian\\Window6.xaml",
+              "RelativeDocumentMoniker": "Multron_File_Guardian\\Window6.xaml",
+              "ToolTip": "D:\\indirilenler\\MultronFguardian-mfgr214p\\MultronFguardian-mfgr214p\\mfg_214r\\Multron_File_Guardian\\Window6.xaml",
+              "RelativeToolTip": "Multron_File_Guardian\\Window6.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-27T15:44:12.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Processes.cs",
+              "DocumentMoniker": "D:\\indirilenler\\MultronFguardian-mfgr214p\\MultronFguardian-mfgr214p\\mfg_214r\\Multron_File_Guardian\\Processes.cs",
+              "RelativeDocumentMoniker": "Multron_File_Guardian\\Processes.cs",
+              "ToolTip": "D:\\indirilenler\\MultronFguardian-mfgr214p\\MultronFguardian-mfgr214p\\mfg_214r\\Multron_File_Guardian\\Processes.cs",
+              "RelativeToolTip": "Multron_File_Guardian\\Processes.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAADwv5kBAAAPAQAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T21:18:27.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Window1.xaml.cs",
+              "DocumentMoniker": "D:\\indirilenler\\MultronFguardian-mfgr214p\\MultronFguardian-mfgr214p\\mfg_214r\\Multron_File_Guardian\\Window1.xaml.cs",
+              "RelativeDocumentMoniker": "Multron_File_Guardian\\Window1.xaml.cs",
+              "ToolTip": "D:\\indirilenler\\MultronFguardian-mfgr214p\\MultronFguardian-mfgr214p\\mfg_214r\\Multron_File_Guardian\\Window1.xaml.cs",
+              "RelativeToolTip": "Multron_File_Guardian\\Window1.xaml.cs",
+              "ViewState": "AgIAABwBAAAAAAAAAAAIwCkBAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-27T15:13:41.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Window2.xaml",
+              "DocumentMoniker": "D:\\indirilenler\\MultronFguardian-mfgr214p\\MultronFguardian-mfgr214p\\mfg_214r\\Multron_File_Guardian\\Window2.xaml",
+              "RelativeDocumentMoniker": "Multron_File_Guardian\\Window2.xaml",
+              "ToolTip": "D:\\indirilenler\\MultronFguardian-mfgr214p\\MultronFguardian-mfgr214p\\mfg_214r\\Multron_File_Guardian\\Window2.xaml",
+              "RelativeToolTip": "Multron_File_Guardian\\Window2.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-26T21:22:46.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Window2.xaml.cs",
+              "DocumentMoniker": "D:\\indirilenler\\MultronFguardian-mfgr214p\\MultronFguardian-mfgr214p\\mfg_214r\\Multron_File_Guardian\\Window2.xaml.cs",
+              "RelativeDocumentMoniker": "Multron_File_Guardian\\Window2.xaml.cs",
+              "ToolTip": "D:\\indirilenler\\MultronFguardian-mfgr214p\\MultronFguardian-mfgr214p\\mfg_214r\\Multron_File_Guardian\\Window2.xaml.cs",
+              "RelativeToolTip": "Multron_File_Guardian\\Window2.xaml.cs",
+              "ViewState": "AgIAAMQBAAAAAAAAAAA7wMYBAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T21:23:06.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Multron_File_Guardian",
+              "DocumentMoniker": "D:\\indirilenler\\MultronFguardian-mfgr214p\\MultronFguardian-mfgr214p\\mfg_214r\\Multron_File_Guardian\\Multron_File_Guardian.csproj",
+              "RelativeDocumentMoniker": "Multron_File_Guardian\\Multron_File_Guardian.csproj",
+              "ToolTip": "D:\\indirilenler\\MultronFguardian-mfgr214p\\MultronFguardian-mfgr214p\\mfg_214r\\Multron_File_Guardian\\Multron_File_Guardian.csproj",
+              "RelativeToolTip": "Multron_File_Guardian\\Multron_File_Guardian.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-29T00:39:43.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Window5.xaml",
+              "DocumentMoniker": "D:\\indirilenler\\MultronFguardian-mfgr214p\\MultronFguardian-mfgr214p\\mfg_214r\\Multron_File_Guardian\\Window5.xaml",
+              "RelativeDocumentMoniker": "Multron_File_Guardian\\Window5.xaml",
+              "ToolTip": "D:\\indirilenler\\MultronFguardian-mfgr214p\\MultronFguardian-mfgr214p\\mfg_214r\\Multron_File_Guardian\\Window5.xaml",
+              "RelativeToolTip": "Multron_File_Guardian\\Window5.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-27T15:17:04.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Window5.xaml.cs",
+              "DocumentMoniker": "D:\\indirilenler\\MultronFguardian-mfgr214p\\MultronFguardian-mfgr214p\\mfg_214r\\Multron_File_Guardian\\Window5.xaml.cs",
+              "RelativeDocumentMoniker": "Multron_File_Guardian\\Window5.xaml.cs",
+              "ToolTip": "D:\\indirilenler\\MultronFguardian-mfgr214p\\MultronFguardian-mfgr214p\\mfg_214r\\Multron_File_Guardian\\Window5.xaml.cs",
+              "RelativeToolTip": "Multron_File_Guardian\\Window5.xaml.cs",
+              "ViewState": "AgIAAJMAAAAAAAAAAADwv50AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-27T16:11:19.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Window6.xaml.cs",
+              "DocumentMoniker": "D:\\indirilenler\\MultronFguardian-mfgr214p\\MultronFguardian-mfgr214p\\mfg_214r\\Multron_File_Guardian\\Window6.xaml.cs",
+              "RelativeDocumentMoniker": "Multron_File_Guardian\\Window6.xaml.cs",
+              "ToolTip": "D:\\indirilenler\\MultronFguardian-mfgr214p\\MultronFguardian-mfgr214p\\mfg_214r\\Multron_File_Guardian\\Window6.xaml.cs",
+              "RelativeToolTip": "Multron_File_Guardian\\Window6.xaml.cs",
+              "ViewState": "AgIAAIQAAAAAAAAAAAAkwI0AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-27T15:45:25.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Window4.xaml",
+              "DocumentMoniker": "D:\\indirilenler\\MultronFguardian-mfgr214p\\MultronFguardian-mfgr214p\\mfg_214r\\Multron_File_Guardian\\Window4.xaml",
+              "RelativeDocumentMoniker": "Multron_File_Guardian\\Window4.xaml",
+              "ToolTip": "D:\\indirilenler\\MultronFguardian-mfgr214p\\MultronFguardian-mfgr214p\\mfg_214r\\Multron_File_Guardian\\Window4.xaml",
+              "RelativeToolTip": "Multron_File_Guardian\\Window4.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-29T00:40:50.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Window3.xaml.cs",
+              "DocumentMoniker": "D:\\indirilenler\\MultronFguardian-mfgr214p\\MultronFguardian-mfgr214p\\mfg_214r\\Multron_File_Guardian\\Window3.xaml.cs",
+              "RelativeDocumentMoniker": "Multron_File_Guardian\\Window3.xaml.cs",
+              "ToolTip": "D:\\indirilenler\\MultronFguardian-mfgr214p\\MultronFguardian-mfgr214p\\mfg_214r\\Multron_File_Guardian\\Window3.xaml.cs",
+              "RelativeToolTip": "Multron_File_Guardian\\Window3.xaml.cs",
+              "ViewState": "AgIAAMkAAAAAAAAAAAAIwJQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T12:45:14.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Window3.xaml",
+              "DocumentMoniker": "D:\\indirilenler\\MultronFguardian-mfgr214p\\MultronFguardian-mfgr214p\\mfg_214r\\Multron_File_Guardian\\Window3.xaml",
+              "RelativeDocumentMoniker": "Multron_File_Guardian\\Window3.xaml",
+              "ToolTip": "D:\\indirilenler\\MultronFguardian-mfgr214p\\MultronFguardian-mfgr214p\\mfg_214r\\Multron_File_Guardian\\Window3.xaml",
+              "RelativeToolTip": "Multron_File_Guardian\\Window3.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-29T23:22:20.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\indirilenler\\MultronFguardian-mfgr214p\\MultronFguardian-mfgr214p\\mfg_214r\\Multron_File_Guardian\\App.xaml",
+              "RelativeDocumentMoniker": "Multron_File_Guardian\\App.xaml",
+              "ToolTip": "D:\\indirilenler\\MultronFguardian-mfgr214p\\MultronFguardian-mfgr214p\\mfg_214r\\Multron_File_Guardian\\App.xaml",
+              "RelativeToolTip": "Multron_File_Guardian\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-01-08T11:59:09.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\indirilenler\\MultronFguardian-mfgr214p\\MultronFguardian-mfgr214p\\mfg_214r\\Multron_File_Guardian\\App.xaml.cs",
+              "RelativeDocumentMoniker": "Multron_File_Guardian\\App.xaml.cs",
+              "ToolTip": "D:\\indirilenler\\MultronFguardian-mfgr214p\\MultronFguardian-mfgr214p\\mfg_214r\\Multron_File_Guardian\\App.xaml.cs",
+              "RelativeToolTip": "Multron_File_Guardian\\App.xaml.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA8wBwAAADdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T11:59:13.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Window4.xaml.cs",
+              "DocumentMoniker": "D:\\indirilenler\\MultronFguardian-mfgr214p\\MultronFguardian-mfgr214p\\mfg_214r\\Multron_File_Guardian\\Window4.xaml.cs",
+              "RelativeDocumentMoniker": "Multron_File_Guardian\\Window4.xaml.cs",
+              "ToolTip": "D:\\indirilenler\\MultronFguardian-mfgr214p\\MultronFguardian-mfgr214p\\mfg_214r\\Multron_File_Guardian\\Window4.xaml.cs",
+              "RelativeToolTip": "Multron_File_Guardian\\Window4.xaml.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAuwBoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T23:22:27.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Light.xaml",
+              "DocumentMoniker": "D:\\indirilenler\\MultronFguardian-mfgr214p\\MultronFguardian-mfgr214p\\mfg_214r\\Multron_File_Guardian\\Themes\\Light.xaml",
+              "RelativeDocumentMoniker": "Multron_File_Guardian\\Themes\\Light.xaml",
+              "ToolTip": "D:\\indirilenler\\MultronFguardian-mfgr214p\\MultronFguardian-mfgr214p\\mfg_214r\\Multron_File_Guardian\\Themes\\Light.xaml",
+              "RelativeToolTip": "Multron_File_Guardian\\Themes\\Light.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-28T00:51:21.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "raes.cs",
+              "DocumentMoniker": "D:\\indirilenler\\MultronFguardian-mfgr214p\\MultronFguardian-mfgr214p\\mfg_214r\\Multron_File_Guardian\\raes.cs",
+              "RelativeDocumentMoniker": "Multron_File_Guardian\\raes.cs",
+              "ToolTip": "D:\\indirilenler\\MultronFguardian-mfgr214p\\MultronFguardian-mfgr214p\\mfg_214r\\Multron_File_Guardian\\raes.cs",
+              "RelativeToolTip": "Multron_File_Guardian\\raes.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAuwDcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T21:18:26.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Dark.xaml",
+              "DocumentMoniker": "D:\\indirilenler\\MultronFguardian-mfgr214p\\MultronFguardian-mfgr214p\\mfg_214r\\Multron_File_Guardian\\Themes\\Dark.xaml",
+              "RelativeDocumentMoniker": "Multron_File_Guardian\\Themes\\Dark.xaml",
+              "ToolTip": "D:\\indirilenler\\MultronFguardian-mfgr214p\\MultronFguardian-mfgr214p\\mfg_214r\\Multron_File_Guardian\\Themes\\Dark.xaml",
+              "RelativeToolTip": "Multron_File_Guardian\\Themes\\Dark.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-27T21:04:38.463Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

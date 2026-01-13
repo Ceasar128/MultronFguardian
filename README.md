@@ -44,7 +44,7 @@
 * You can set Password-Iteration Rate. (Default is 4 Iteration)
 * You can set Argon2id Parallelism Number (Default is 1)  
 * You can set Argon2id Memory Rate. (Default is 256) {256, 512, 1024} | MB
-* You can set shredder iteration rate (1-99) (Default is 3)
+* You can set Shredder Iteration Rate (1-99) (Default is 3)
 * You can also set Symmetric Algorithm Key Size (If algorithm supports)  
 * If you're about to share a file securely, then you may want to use one of Hybrid algorithms.
 * You can compress your files before encryption.

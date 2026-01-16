@@ -1,0 +1,671 @@
+﻿<Window x:Class="MultronFileGuardian.Window1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Multron File Guardian" Height="705" Width="1048"
+        WindowStyle="None" AllowsTransparency="True" Background="Transparent"
+        ResizeMode="NoResize" WindowStartupLocation="CenterScreen" Loaded="Window_Loaded" Closing="On_Closing" ContentRendered="Window_ContentRendered">
+
+    <Border Background="{DynamicResource BackgroundColor}" CornerRadius="12">
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="139*"/>
+                <RowDefinition Height="96*"/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="Auto"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+
+            <Border x:Name="sidebarPanel" Grid.Column="0" 
+                    Background="{DynamicResource SidebarBg}"
+                    CornerRadius="12,0,0,12" Width="260" Grid.RowSpan="2">
+                <Border.Effect>
+                    <DropShadowEffect Color="#000000" Direction="0" ShadowDepth="0" 
+                                      BlurRadius="16" Opacity="0.15"/>
+                </Border.Effect>
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="64"/>
+                        <RowDefinition Height="*"/>
+                    </Grid.RowDefinitions>
+
+                    <Border Background="{DynamicResource SidebarBg}" Padding="16" CornerRadius="12,0,0,0">
+                        <Grid>
+                            <TextBlock Text="MENU" FontSize="16" FontWeight="Bold"
+                                       Foreground="{DynamicResource SidebarText}" VerticalAlignment="Center"/>
+                            <Button x:Name="toggleSidebarBtn"
+                                Width="32"
+                                Height="32"
+                                FontSize="22"
+                                Background="Transparent"
+                                Foreground="White"
+                                BorderThickness="0"
+                                HorizontalAlignment="Right"
+                                Cursor="Hand"
+                                Click="ToggleSidebar_Click">
+
+                                <Button.ContentTemplate>
+                                    <DataTemplate>
+                                        <TextBlock Text="{Binding}"
+                       Foreground="{Binding Foreground, RelativeSource={RelativeSource AncestorType=Button}}"
+                       HorizontalAlignment="Center"
+                       VerticalAlignment="Center"/>
+                                    </DataTemplate>
+                                </Button.ContentTemplate>
+
+                                <Button.Style>
+                                    <Style TargetType="Button">
+                                        <Setter Property="Template">
+                                            <Setter.Value>
+                                                <ControlTemplate TargetType="Button">
+                                                    <Border Background="{TemplateBinding Background}"
+                                CornerRadius="6">
+                                                        <ContentPresenter HorizontalAlignment="Center"
+                                              VerticalAlignment="Center"/>
+                                                    </Border>
+                                                </ControlTemplate>
+                                            </Setter.Value>
+                                        </Setter>
+
+                                        <Style.Triggers>
+                                            <Trigger Property="IsMouseOver" Value="True">
+                                                <Setter Property="Background" Value="#6C7B8C"/>
+                                            </Trigger>
+                                        </Style.Triggers>
+                                    </Style>
+                                </Button.Style>
+
+                                ◄
+                            </Button>
+                        </Grid>
+                    </Border>
+
+                    <ScrollViewer Grid.Row="1" VerticalScrollBarVisibility="Auto" 
+                                  Padding="0,12,8,12">
+                        <StackPanel>
+                            <Button x:Name="label10" Style="{DynamicResource MenuButton}" Click="label10_Click">
+                                <TextBlock Text="📋 About" Foreground="{DynamicResource SidebarText}"/>
+                            </Button>
+
+                            <Button x:Name="label14" Style="{DynamicResource MenuButton}" Click="label14_Click">
+                                <TextBlock Text="📝 Multron NoteGuard" Foreground="{DynamicResource SidebarText}"/>
+                            </Button>
+
+                            <Button x:Name="label6" Style="{DynamicResource MenuButton}" Click="label6_Click">
+                                <TextBlock Text="🔑 Hold Keys" Foreground="{DynamicResource SidebarText}"/>
+                            </Button>
+
+                            <Button x:Name="label13" Style="{DynamicResource MenuButton}" Click="label13_Click">
+                                <TextBlock Text="⚙️ Algorithm Settings" Foreground="{DynamicResource SidebarText}"/>
+                            </Button>
+
+                            <Button x:Name="label17" Style="{DynamicResource MenuButton}" Click="label17_Click">
+                                <TextBlock Text="🛠️ General Settings" Foreground="{DynamicResource SidebarText}"/>
+                            </Button>
+
+                            <Border Height="1" Background="#334155" Margin="16,12" Opacity="0.25"/>
+
+                            <Button x:Name="label11" Style="{DynamicResource MenuButton}" Click="label11_Click">
+                                <TextBlock Text="🔐 Create RSA Keys" Foreground="{DynamicResource SidebarText}"/>
+                            </Button>
+                        </StackPanel>
+                    </ScrollViewer>
+                </Grid>
+            </Border>
+
+            <Grid Grid.Column="1" Grid.RowSpan="2">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="64"/>
+                    <RowDefinition Height="*"/>
+                </Grid.RowDefinitions>
+
+                <Border x:Name="panel2" Grid.Row="0" 
+                        Background="{DynamicResource SurfaceColor}"
+                        CornerRadius="0,12,0,0" 
+                        MouseLeftButtonDown="panel2_MouseDown" 
+                        Padding="20"
+                        BorderBrush="{DynamicResource BorderColor}"
+                        BorderThickness="0,0,0,1">
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="Auto"/>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="Auto"/>
+                        </Grid.ColumnDefinitions>
+
+                        <Button x:Name="showSidebarBtn" Content="☰" 
+                                Width="38" Height="26" FontSize="16"
+                                Background="Transparent" 
+                                Foreground="{DynamicResource TextSecondary}"
+                                BorderThickness="0" 
+                                Cursor="Hand"
+                                Visibility="Collapsed"
+                                Click="ToggleSidebar_Click"
+                                Margin="0,0,12,0">
+                            <Button.Style>
+                                <Style TargetType="Button">
+                                    <Setter Property="Template">
+                                        <Setter.Value>
+                                            <ControlTemplate TargetType="Button">
+                                                <Border Background="{TemplateBinding Background}" 
+                                                        CornerRadius="6">
+                                                    <ContentPresenter HorizontalAlignment="Center" 
+                                                                      VerticalAlignment="Center"/>
+                                                </Border>
+                                            </ControlTemplate>
+                                        </Setter.Value>
+                                    </Setter>
+                                    <Style.Triggers>
+                                        <Trigger Property="IsMouseOver" Value="True">
+                                            <Setter Property="Background" Value="{DynamicResource BorderColor}"/>
+                                        </Trigger>
+                                    </Style.Triggers>
+                                </Style>
+                            </Button.Style>
+                        </Button>
+
+                        <StackPanel Grid.Column="1" Orientation="Horizontal" VerticalAlignment="Center">
+                            <TextBlock x:Name="label5" Text="Multron File Guardian 2.1.6"
+                                       FontSize="15" FontWeight="SemiBold" 
+                                       Foreground="{DynamicResource TextPrimary}"
+                                       VerticalAlignment="Center"/>
+                            <Border Background="{DynamicResource PrimaryColor}" 
+                                    CornerRadius="4" Padding="6,2" 
+                                    Margin="10,0,0,0" VerticalAlignment="Center">
+                                <TextBlock Text="Release" FontSize="9" FontWeight="Bold" 
+                                           Foreground="White"/>
+                            </Border>
+                        </StackPanel>
+
+                        <StackPanel Grid.Column="2" Orientation="Horizontal" 
+                                    VerticalAlignment="Center">
+                            <Button x:Name="buyCoffeeBtn" 
+                                Width="86" Height="26"
+                                Background="Transparent"
+                                BorderThickness="0"
+                                Cursor="Hand"
+                                Click="BuyCoffee_Click"
+                                Margin="0,0,4,0">
+                                <Button.Style>
+                                    <Style TargetType="Button">
+                                        <Setter Property="Foreground" Value="{DynamicResource TextSecondary}"/>
+                                        <Setter Property="Template">
+                                            <Setter.Value>
+                                                <ControlTemplate TargetType="Button">
+                                                    <Border Background="{TemplateBinding Background}"
+                                                            CornerRadius="6">
+                                                        <TextBlock Text="☕ Donate"
+                                                                   FontSize="15"
+                                                                   HorizontalAlignment="Center"
+                                                                   VerticalAlignment="Center"/>
+                                                    </Border>
+                                                </ControlTemplate>
+                                            </Setter.Value>
+                                        </Setter>
+                                        <Style.Triggers>
+                                            <Trigger Property="IsMouseOver" Value="True">
+                                                <Setter Property="Background" Value="{DynamicResource DonateHover}"/>
+                                                <Setter Property="Foreground" Value="{DynamicResource DonateHoverText}"/>
+                                            </Trigger>
+                                        </Style.Triggers>
+                                    </Style>
+                                </Button.Style>
+                            </Button>
+
+                            <Button x:Name="rjButton8" Content="─" 
+                                    Width="36" Height="24" FontSize="16"
+                                    Background="Transparent" 
+                                    Foreground="{DynamicResource TextSecondary}"
+                                    BorderThickness="0" Cursor="Hand"
+                                    Click="rjButton8_Click" Margin="0,0,4,0">
+                                <Button.Style>
+                                    <Style TargetType="Button">
+                                        <Setter Property="Template">
+                                            <Setter.Value>
+                                                <ControlTemplate TargetType="Button">
+                                                    <Border Background="{TemplateBinding Background}" 
+                                                            CornerRadius="6">
+                                                        <ContentPresenter HorizontalAlignment="Center" 
+                                                                          VerticalAlignment="Center"/>
+                                                    </Border>
+                                                </ControlTemplate>
+                                            </Setter.Value>
+                                        </Setter>
+                                        <Style.Triggers>
+                                            <Trigger Property="IsMouseOver" Value="True">
+                                                <Setter Property="Background" Value="{DynamicResource BorderColor}"/>
+                                            </Trigger>
+                                        </Style.Triggers>
+                                    </Style>
+                                </Button.Style>
+                            </Button>
+
+                            <Button x:Name="rjButton7" Content="✕" 
+                                    Width="36" Height="26" FontSize="14"
+                                    Background="Transparent" 
+                                    Foreground="{DynamicResource TextSecondary}"
+                                    BorderThickness="0" Cursor="Hand"
+                                    Click="rjButton7_Click">
+                                <Button.Style>
+                                    <Style TargetType="Button">
+                                        <Setter Property="Template">
+                                            <Setter.Value>
+                                                <ControlTemplate TargetType="Button">
+                                                    <Border Background="{TemplateBinding Background}" 
+                                                            CornerRadius="6">
+                                                        <ContentPresenter HorizontalAlignment="Center" 
+                                                                          VerticalAlignment="Center"/>
+                                                    </Border>
+                                                </ControlTemplate>
+                                            </Setter.Value>
+                                        </Setter>
+                                        <Style.Triggers>
+                                            <Trigger Property="IsMouseOver" Value="True">
+                                                <Setter Property="Background" Value="{DynamicResource DangerColor}"/>
+                                                <Setter Property="Foreground" Value="White"/>
+                                            </Trigger>
+                                        </Style.Triggers>
+                                    </Style>
+                                </Button.Style>
+                            </Button>
+                        </StackPanel>
+                    </Grid>
+                </Border>
+
+                <Grid Grid.Row="1" Margin="20">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="*"/>
+                        <RowDefinition Height="Auto"/>
+                    </Grid.RowDefinitions>
+
+                    <Grid Grid.Row="0" Margin="0,0,0,12">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="Auto"/>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="Auto"/>
+                        </Grid.ColumnDefinitions>
+
+                        <Button x:Name="rjButton2" Grid.Column="0" Content="Encrypt"
+                                Width="120" Height="45"
+                                Style="{DynamicResource ModernButton}"
+                                Background="{DynamicResource DangerColor}" 
+                                Margin="0,0,6,0"
+                                Click="rjButton2_Click"/>
+
+                        <Button x:Name="rjButton3" Grid.Column="1" Content="Browse Files"
+                                Width="150" Height="45"
+                                Style="{DynamicResource ModernButton}"
+                                Background="{DynamicResource PrimaryColor}" 
+                                HorizontalAlignment="Center"
+                                Margin="6,0,6,0"
+                                Click="rjButton3_Click"/>
+
+                        <Button x:Name="rjButton1" Grid.Column="2" Content="Decrypt"
+                                Width="120" Height="45"
+                                Style="{DynamicResource ModernButton}"
+                                Background="{DynamicResource SuccessColor}" 
+                                Margin="6,0,0,0"
+                                Click="rjButton1_Click"/>
+                    </Grid>
+
+                    <Border Grid.Row="1" Style="{DynamicResource Card}" Margin="0,0,0,12">
+                        <Grid>
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height="Auto"/>
+                                <RowDefinition Height="*"/>
+                                <RowDefinition Height="Auto"/>
+                            </Grid.RowDefinitions>
+
+                            <TextBlock Text="Selected Files" FontSize="12" 
+                                       FontWeight="SemiBold"
+                                       Foreground="{DynamicResource TextPrimary}" 
+                                       Margin="0,0,0,10"/>
+
+                            <Border Grid.Row="1" 
+                                    BorderBrush="{DynamicResource BorderColor}"
+                                    BorderThickness="1" CornerRadius="6" 
+                                    Background="{DynamicResource ListBoxBackground}" 
+                                    Margin="0,0,0,10" 
+                                    Padding="4">
+                                <ListBox x:Name="listBox1" Background="Transparent" 
+                                         BorderThickness="0"
+                                         AllowDrop="True"
+                                         Drop="listBox1_Drop" 
+                                         DragEnter="listBox1_DragEnter"
+                                         Padding="4">
+                                    <ListBox.ItemTemplate>
+                                        <DataTemplate>
+                                            <Border Background="{DynamicResource SurfaceColor}" 
+                                                    CornerRadius="4"
+                                                    Padding="10,8" Margin="2"
+                                                    BorderBrush="{DynamicResource BorderColor}" 
+                                                    BorderThickness="1">
+                                                <TextBlock Text="{Binding}" FontSize="12"
+                                                           Foreground="{DynamicResource TextPrimary}"/>
+                                            </Border>
+                                        </DataTemplate>
+                                    </ListBox.ItemTemplate>
+                                </ListBox>
+                            </Border>
+
+                            <Grid Grid.Row="2">
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="*"/>
+                                    <ColumnDefinition Width="*"/>
+                                </Grid.ColumnDefinitions>
+
+                                <Button x:Name="rjButton5" Content="Clear All"
+                                        Style="{DynamicResource ModernButton}"
+                                        Background="{DynamicResource NeutralColor}"
+                                        Margin="0,0,6,0" Click="rjButton5_Click"/>
+
+                                <Button x:Name="rjButton4" Grid.Column="1"
+                                        Content="Remove Selected"
+                                        Style="{DynamicResource ModernButton}"
+                                        Background="{DynamicResource NeutralColor}"
+                                        Margin="6,0,0,0" Click="rjButton4_Click"/>
+                            </Grid>
+                        </Grid>
+                    </Border>
+
+                    <Grid Grid.Row="2">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="2*"/>
+                            <ColumnDefinition Width="12"/>
+                            <ColumnDefinition Width="*"/>
+                        </Grid.ColumnDefinitions>
+
+                        <Border Grid.Column="0" Style="{DynamicResource Card}">
+                            <Grid>
+                                <Grid.RowDefinitions>
+                                    <RowDefinition Height="Auto"/>
+                                    <RowDefinition Height="Auto"/>
+                                    <RowDefinition Height="Auto"/>
+                                </Grid.RowDefinitions>
+
+                                <StackPanel Orientation="Horizontal" Margin="0,0,0,10">
+                                    <TextBlock x:Name="label2" Text="Encryption Key"
+                                               FontSize="12" FontWeight="SemiBold"
+                                               Foreground="{DynamicResource TextPrimary}"
+                                               VerticalAlignment="Center"/>
+                                    <Border Background="{DynamicResource BadgeBackground}" 
+                                            CornerRadius="3" 
+                                            Padding="6,2" Margin="10,0,0,0">
+                                        <TextBlock Name="Algorithm" Text="SYMMETRIC" 
+                                                   FontSize="9" 
+                                                   FontWeight="Bold"
+                                                   Foreground="{DynamicResource txtPrimaryColor}"/>
+                                    </Border>
+                                </StackPanel>
+                                <CheckBox x:Name="checkBox1" Grid.Row="2"
+                                Content="Show Password"
+                                HorizontalAlignment="Left"
+                                VerticalAlignment="Bottom"
+                                Foreground="{DynamicResource TextPrimary}" Click="checkBox1_Click"/>
+                                <TextBox x:Name="textBox1" Grid.Row="1"
+                                         Height="40"
+                                         Style="{DynamicResource ModernTextBox}"
+                                         Margin="0,0,0,10"/>
+
+                            </Grid>
+                        </Border>
+
+
+                        <Grid Grid.Column="2">
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height="Auto"/>
+                                <RowDefinition Height="*"/>
+                            </Grid.RowDefinitions>
+
+                            <Border x:Name="panel1" Grid.Row="0"
+                                    Background="{DynamicResource SurfaceColor}" 
+                                    CornerRadius="6"
+                                    Padding="14,10"
+                                    BorderBrush="{DynamicResource BorderColor}"
+                                    BorderThickness="1"
+                                    Margin="0,0,0,12">
+                                <StackPanel>
+                                    <TextBlock x:Name="label3" Text="Status"
+                                               FontSize="10" FontWeight="SemiBold"
+                                               Foreground="{DynamicResource TextSecondary}"
+                                               Margin="0,0,0,4"/>
+                                    <TextBlock x:Name="label4" Text="Ready"
+                                               FontSize="12" FontWeight="SemiBold"
+                                               Foreground="{DynamicResource txtPrimaryColor}"/>
+                                </StackPanel>
+                            </Border>
+
+                            <Border Grid.Row="1"
+                                    Background="{DynamicResource SurfaceColor}"
+                                    CornerRadius="6"
+                                    Padding="14"
+                                    BorderBrush="{DynamicResource BorderColor}"
+                                    BorderThickness="1">
+                                <Grid>
+                                    <Grid.RowDefinitions>
+                                        <RowDefinition Height="Auto"/>
+                                        <RowDefinition Height="*"/>
+                                    </Grid.RowDefinitions>
+
+                                    <Label Name="label15" 
+                                           Content="Configuration"
+                                           FontSize="10"
+                                           FontWeight="SemiBold"
+                                           Foreground="{DynamicResource TextSecondary}"
+                                           Margin="0,0,0,6"
+                                           Padding="0"/>
+
+                                    <ScrollViewer Grid.Row="1"
+                                                  VerticalScrollBarVisibility="Auto">
+                                        <StackPanel x:Name="currentOptionsPanel"/>
+                                    </ScrollViewer>
+                                </Grid>
+                            </Border>
+                        </Grid>
+                    </Grid>
+                </Grid>
+
+                <Border x:Name="panel3" Grid.Row="1"
+                        Background="{DynamicResource OverlayBg}"
+                        Visibility="Collapsed"
+                        Panel.ZIndex="30"
+                        CornerRadius="0,12,12,0">
+
+                    <Border Style="{DynamicResource FloatingPanel}"
+                            Width="520" Height="240" 
+                            VerticalAlignment="Center" 
+                            HorizontalAlignment="Center">
+
+                        <Grid>
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height="Auto"/>
+                                <RowDefinition Height="Auto"/>
+                                <RowDefinition Height="*"/>
+                                <RowDefinition Height="Auto"/>
+                            </Grid.RowDefinitions>
+
+                            <TextBlock x:Name="label8"
+                                       Text="Select Output Folder"
+                                       FontSize="16" FontWeight="SemiBold"
+                                       Foreground="{DynamicResource TextPrimary}"
+                                       Margin="0,0,0,16"/>
+
+                            <TextBox x:Name="textBox2"
+                                     Grid.Row="1" Height="40"
+                                     Style="{DynamicResource ModernTextBox}"
+                                     Margin="0,0,0,20"/>
+
+                            <Grid Grid.Row="3">
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="*"/>
+                                    <ColumnDefinition Width="*"/>
+                                    <ColumnDefinition Width="*"/>
+                                </Grid.ColumnDefinitions>
+
+                                <Button x:Name="rjButton10" Content="Browse"
+                                        Style="{DynamicResource ModernButton}"
+                                        Background="{DynamicResource PrimaryColor}"
+                                        Margin="0,0,6,0"
+                                        Click="rjButton10_Click"/>
+
+                                <Button x:Name="rjButton11" Grid.Column="1" 
+                                        Content="Confirm"
+                                        Style="{DynamicResource ModernButton}"
+                                        Background="{DynamicResource SuccessColor}"
+                                        Margin="3,0"
+                                        Click="rjButton11_Click"/>
+
+                                <Button x:Name="rjButton12" Grid.Column="2" 
+                                        Content="Cancel"
+                                        Style="{DynamicResource ModernButton}"
+                                        Background="{DynamicResource DangerColor}"
+                                        Margin="6,0,0,0"
+                                        Click="rjButton12_Click"/>
+                            </Grid>
+                        </Grid>
+                    </Border>
+                </Border>
+
+                <Border x:Name="algorithmSettingsPanel" Grid.Row="1"
+                        Background="{DynamicResource OverlayBg}"
+                        Visibility="Collapsed"
+                        Panel.ZIndex="40"
+                        CornerRadius="0,12,12,0">
+
+                    <Border Style="{DynamicResource FloatingPanel}"
+                            Width="560" MaxHeight="600" 
+                            VerticalAlignment="Center" 
+                            HorizontalAlignment="Center">
+
+                        <ScrollViewer VerticalScrollBarVisibility="Auto">
+                            <StackPanel>
+
+                                <Grid Margin="0,0,0,24">
+                                    <TextBlock Text="Algorithm Settings" 
+                                               FontSize="20" FontWeight="SemiBold"
+                                               Foreground="{DynamicResource TextPrimary}"/>
+                                    <Button Content="✕" 
+                                            Width="32" Height="32" FontSize="14"
+                                            Background="Transparent" 
+                                            Foreground="{DynamicResource TextSecondary}"
+                                            BorderThickness="0" 
+                                            HorizontalAlignment="Right"
+                                            Cursor="Hand"
+                                            Click="CloseAlgorithmSettings_Click">
+                                        <Button.Style>
+                                            <Style TargetType="Button">
+                                                <Setter Property="Template">
+                                                    <Setter.Value>
+                                                        <ControlTemplate TargetType="Button">
+                                                            <Border Background="{TemplateBinding Background}" 
+                                                                    CornerRadius="6">
+                                                                <ContentPresenter HorizontalAlignment="Center" 
+                                                                                  VerticalAlignment="Center"/>
+                                                            </Border>
+                                                        </ControlTemplate>
+                                                    </Setter.Value>
+                                                </Setter>
+                                                <Style.Triggers>
+                                                    <Trigger Property="IsMouseOver" Value="True">
+                                                        <Setter Property="Background" Value="{DynamicResource BorderColor}"/>
+                                                    </Trigger>
+                                                </Style.Triggers>
+                                            </Style>
+                                        </Button.Style>
+                                    </Button>
+                                </Grid>
+
+                                <Border Background="{DynamicResource CardBackground}" CornerRadius="8" Padding="20" Margin="0,0,0,16">
+                                    <StackPanel>
+                                        <TextBlock Text="Algorithm" FontSize="13" FontWeight="SemiBold" 
+                                                   Foreground="{DynamicResource TextPrimary}" Margin="0,0,0,8"/>
+                                        <StackPanel Orientation="Horizontal">
+                                            <ComboBox x:Name="comboBox1" Style="{DynamicResource ModernComboBox}"  
+                                                      Width="400" Height="40" SelectionChanged="ComboBox1_SelectionChanged">
+                                                <ComboBoxItem Content="AES"/>
+                                                <ComboBoxItem Content="Serpent"/>
+                                                <ComboBoxItem Content="Twofish"/>
+                                                <ComboBoxItem Content="ThreeFish"/>
+                                                <ComboBoxItem Content="Camellia"/>
+                                                <ComboBoxItem Content="ChaCha20"/>
+                                                <ComboBoxItem Content="SM4"/>
+                                                <ComboBoxItem Content="HC"/>
+                                                <ComboBoxItem Content="AES-RSA Hybrid Algorithm"/>
+                                                <ComboBoxItem Content="Serpent-RSA Hybrid Algorithm"/>
+                                                <ComboBoxItem Content="Twofish-RSA Hybrid Algorithm"/>
+                                                <ComboBoxItem Content="ThreeFish-RSA Hybrid Algorithm"/>
+                                                <ComboBoxItem Content="Camellia-RSA Hybrid Algorithm"/>
+                                                <ComboBoxItem Content="ChaCha20-RSA Hybrid Algorithm"/>
+                                                <ComboBoxItem Content="SM4-RSA Hybrid Algorithm"/>
+                                                <ComboBoxItem Content="HC-RSA Hybrid Algorithm"/>
+                                            </ComboBox>
+                                            <Button x:Name="linkLabel1" Style="{DynamicResource InfoButton}" 
+                                                    Margin="12,0,0,0" Click="linkLabel1_Click"/>
+                                        </StackPanel>
+                                    </StackPanel>
+                                </Border>
+
+                                <Border Background="{DynamicResource CardBackground}" CornerRadius="8" Padding="20" Margin="0,0,0,16">
+                                    <StackPanel>
+                                        <TextBlock Text="Symmetric Key Size" FontSize="13" FontWeight="SemiBold" 
+                                                   Foreground="{DynamicResource TextPrimary}" Margin="0,0,0,8"/>
+                                        <StackPanel Orientation="Horizontal">
+                                            <ComboBox x:Name="comboBox3" Style="{DynamicResource ModernComboBox}" 
+                                                      Width="400" Height="40" SelectedIndex="2" 
+                                                      SelectionChanged="ComboBox3_SelectionChanged">
+                                                <ComboBoxItem Content="128 bits"/>
+                                                <ComboBoxItem Content="192 bits"/>
+                                                <ComboBoxItem Content="256 bits"/>
+                                            </ComboBox>
+                                            <Button x:Name="linkLabel3" Style="{DynamicResource InfoButton}" 
+                                                    Margin="12,0,0,0" Click="linkLabel3_Click"/>
+                                        </StackPanel>
+                                    </StackPanel>
+                                </Border>
+
+                                <Border Background="{DynamicResource CardBackground}" CornerRadius="8" Padding="20" Margin="0,0,0,16">
+                                    <StackPanel>
+                                        <TextBlock Text="Cipher Mode" FontSize="13" FontWeight="SemiBold" 
+                                                   Foreground="{DynamicResource TextPrimary}" Margin="0,0,0,8"/>
+                                        <StackPanel Orientation="Horizontal">
+                                            <ComboBox x:Name="comboBox4" Style="{DynamicResource ModernComboBox}" 
+                                                      Width="400" Height="40" SelectionChanged="ComboBox4_SelectionChanged">
+                                                <ComboBoxItem Content="No-AUTH"/>
+                                                <ComboBoxItem Content="Encrypt-then-MAC"/>
+                                            </ComboBox>
+                                            <Button x:Name="linkLabel5" Style="{DynamicResource InfoButton}" 
+                                                    Margin="12,0,0,0" Click="linkLabel5_Click"/>
+                                        </StackPanel>
+                                    </StackPanel>
+                                </Border>
+
+                                <Border Background="{DynamicResource CardBackground}" CornerRadius="8" Padding="20">
+                                    <StackPanel>
+                                        <TextBlock Text="RSA Key Size" FontSize="13" FontWeight="SemiBold" 
+                                                   Foreground="{DynamicResource TextPrimary}" Margin="0,0,0,8"/>
+                                        <StackPanel Orientation="Horizontal">
+                                            <ComboBox x:Name="comboBox2" Style="{DynamicResource ModernComboBox}" 
+                                                      Width="400" Height="40" SelectionChanged="ComboBox2_SelectionChanged">
+                                                <ComboBoxItem Content="2048"/>
+                                                <ComboBoxItem Content="3072"/>
+                                                <ComboBoxItem Content="4096"/>
+                                                <ComboBoxItem Content="8192"/>
+                                                <ComboBoxItem Content="16384"/>
+                                            </ComboBox>
+                                            <Button x:Name="linkLabel2" Style="{DynamicResource InfoButton}" 
+                                                    Margin="12,0,0,0" Click="linkLabel2_Click"/>
+                                        </StackPanel>
+                                    </StackPanel>
+                                </Border>
+
+                            </StackPanel>
+                        </ScrollViewer>
+                    </Border>
+                </Border>
+
+            </Grid>
+        </Grid>
+    </Border>
+
+</Window>

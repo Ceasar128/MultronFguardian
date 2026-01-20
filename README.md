@@ -29,7 +29,7 @@
 ---
 
 
-## Default Settings
+## Default Algorithm Settings
 AES-256 (CBC-PKCS7) | Auth Mode: Encrypt-then-MAC | Argon2id Parameters: 256 MB Memory-Rate, 4 Iteration, 1 Parallelism
 
 

@@ -1,4 +1,4 @@
-# Multron File Guardian
+# Multron File Guardian - File Encryption Suite
 
 ![License: AAL](https://img.shields.io/badge/License-AAL-black.svg)
 ![Release Date](https://img.shields.io/badge/Release%20Date-2026--01--17-seagreen)
@@ -28,6 +28,11 @@
 
 ---
 
+
+## Default Settings
+- 🔐AES-256 (CBC-PKCS7) | Auth Mode: Encrypt-then-MAC | Argon2id Parameters: 256 MB Memory-Rate, 4 Iteration, 1 Parallelism
+
+
 ## ⚙️ Supported algorithms
 
 - 🔐 AES
@@ -51,7 +56,7 @@
 - 🔐 Encrypted File Extension = .mfg
 - 🔐 Multron NoteGuard Encrypted File Extension = .mng
 - 🔐 Argon2id Key Derivation
-- 🔐 Block Cipher Mode: CBC
+- 🔐 Block Cipher Mode: CBC-PKCS7
 - 🔐 Random IV/Nonce | Salt for Each File
 - 🔐 Provided Authentication Method: Encrypt-then-MAC
 - 🔐 Screen Protection: Prevents MFG From catched in screen captures

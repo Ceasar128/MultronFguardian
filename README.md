@@ -46,7 +46,7 @@ AES-256 (CBC-PKCS7) | Auth Mode: Encrypt-then-MAC | Argon2id Parameters: 256 MB 
 - 🔐 RSA Hybrided With Symmetric Algorithms (Key Encapsulation Mechanism)
 
 * You can set RSA Key Length (from 2048 to 16384) (Default is 4096)
-* You can set Password-Iteration Rate. (Default is 4 Iteration)
+* You can set Argon2id Password-Iteration Rate. (Default is 4 Iteration)
 * You can set Argon2id Parallelism Number (Default is 1)  
 * You can set Argon2id Memory Rate. (Default is 256) {256, 512, 1024} | MB
 * You can set Shredder Iteration Rate (1-99) (Default is 3)

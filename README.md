@@ -10,6 +10,15 @@
 
 ---
 
+## ⚠️ Warninng: Development of this program is abandoned.
+
+You will no longer get update, You can fork it under AAL License requirements. (You have to put my name (Ceasar128) in readme or in program and license file in fork.
+
+Why I Abandoned?: I have no motivation to continue developing and i dont think it will worth it, I think program will stay in dusty pages of history. I have also psychologic problems.
+
+I'm Sorry.
+
+---
 **Multron File Guardian** is an advanced file encryption software that supports many algorithms.
 > 📅 First release date: **September 24, 2024**   
 > 📦 Initial release: **multronfguardian 1.0 beta**   

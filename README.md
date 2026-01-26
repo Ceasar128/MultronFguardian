@@ -12,7 +12,7 @@
 
 ## ⚠️ Warning: Development of this program is abandoned.
 
-You will no longer get update, You can fork it under AAL License requirements. (You have to put my name (Ceasar128) in readme or in program and license file in fork.
+You will no longer get update, You can fork it under AAL License requirements. (You have to put my name (Ceasar128) in readme or in program and license file in fork.)
 
 Why I Abandoned?: I have no motivation to continue developing and i dont think it will worth it, I think program will stay in dusty pages of history. I have also psychologic problems.
 
